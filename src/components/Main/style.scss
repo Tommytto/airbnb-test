@@ -14,6 +14,7 @@ $header-height-md: 81px;
     position: sticky;
     height: $header-height-sm;
     top: 0;
+    z-index: 10;
 
     @media #{$min-width-sm} {
       height: $header-height-md;
@@ -22,6 +23,15 @@ $header-height-md: 81px;
 
   &__content {
     flex: 1;
+  }
+
+  &__card-grid {
     padding: 14px 16px;
+    max-width: 1680px;
+    margin: 0 auto;
+    @media #{$min-width-lg} {
+      padding-left: 80px;
+      padding-right: 80px;
+    }
   }
 }

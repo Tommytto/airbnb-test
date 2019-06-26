@@ -5,9 +5,7 @@ class Api {
     }
 
     getPageInfo() {
-        const response = this.request('/card-grid.json');
-        console.log(response);
-        return response;
+        return this.request('/card-grid.json');
     }
 }
 

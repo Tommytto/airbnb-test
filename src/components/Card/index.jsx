@@ -1,9 +1,11 @@
 import React from 'react';
 import './style.scss';
 import PropTypes from 'prop-types';
+import CardPoster from '../CardPoster/index';
 
 class Card extends React.Component {
     static propTypes = {
+        carousel_collection_multimedia: PropTypes.array,
         display_rating: PropTypes.number,
         display_text: PropTypes.string,
         kicker_text: PropTypes.string,
@@ -16,30 +18,30 @@ class Card extends React.Component {
     };
 
     state = {
-        carouselPictureIndex: -1,
+        isHovered: false,
     };
 
     handleStartHover = () => {
-        setInterval(() => {
-            const {carousel_collection_multimedia} = this.props;
-            this.setState(({carouselPictureIndex: oldIndex}) => {
-                const newIndex = (oldIndex + 1) % carousel_collection_multimedia.length;
-                return {
-                    carouselPictureIndex: newIndex,
-                };
-            });
-        }, 2000);
+        this.setState({
+            isHovered: true,
+        });
     };
 
     handleStopHover = () => {
-        console.log('leave');
+        this.setState({
+            isHovered: false,
+        });
     };
 
     render() {
-        const {kicker_text, display_text, kicker_text_color} = this.props;
+        const {kicker_text, display_text, poster_pictures, kicker_text_color, carousel_collection_multimedia} = this.props;
         return (
             <section className="card" onMouseEnter={this.handleStartHover} onMouseLeave={this.handleStopHover}>
-                {this.renderPoster()}
+                <CardPoster
+                    carousel_collection_multimedia={carousel_collection_multimedia}
+                    isHovered={this.state.isHovered}
+                    poster_pictures={poster_pictures}
+                />
                 <div className="card__title" style={{color: kicker_text_color}}>
                     {kicker_text}
                 </div>
@@ -60,10 +62,6 @@ class Card extends React.Component {
         ));
     }
 
-    isHovered() {
-        return 0 <= this.state.carouselPictureIndex;
-    }
-
     renderRating() {
         const {display_rating, review_count, star_rating_color} = this.props;
         if (!display_rating) {
@@ -75,37 +73,6 @@ class Card extends React.Component {
                 {finalRating}
                 <div className="card__star" />
                 <div className="card__review-count">({review_count})</div>
-            </div>
-        );
-    }
-
-    // renderCarousel() {
-    //     const {carouselPictureIndex} = this.state;
-    //     const {carousel_collection_multimedia} = this.props;
-    //
-    //     if (!this.isHovered()) {
-    //         return null;
-    //     }
-    //
-    //     const picture = carousel_collection_multimedia[carouselPictureIndex].picture.poster;
-    //     return carousel_collection_multimedia.map(({picture: {poster}}, index) => {
-    //         const classNameList = ['card__poster', 'card__poster_type_carousel'];
-    //
-    //         if (index === carouselPictureIndex) {
-    //             classNameList.push('card__poster_type_active');
-    //         }
-    //
-    //         return <img alt="carousel item" className={classNameList.join(' ')} key={index} src={picture} />;
-    //     });
-    // }
-
-    renderPoster() {
-        const {poster_pictures} = this.props;
-        return (
-            <div className="card__poster-wrapper">
-                <img alt="poster" className="card__poster" src={poster_pictures[0].poster} />
-                {/*{this.renderCarousel()}*/}
-                <div className="card__poster-overlay" />
             </div>
         );
     }

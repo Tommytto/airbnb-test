@@ -10,7 +10,9 @@ const Main = () => {
                 <Header />
             </div>
             <main className="main__content">
-                <CardGrid />
+                <div className="main__card-grid">
+                    <CardGrid />
+                </div>
             </main>
         </div>
     );
