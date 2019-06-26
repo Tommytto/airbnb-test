@@ -1,0 +1,17 @@
+@import "../../style/media";
+
+.card-grid {
+  display: grid;
+
+  @media #{$min-width-sm} {
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  }
+
+  @media #{$max-width-sm} {
+    grid-template-columns: repeat(auto-fill, 50%);
+  }
+
+  &__card-wrapper {
+    padding: 16px 8px;
+  }
+}

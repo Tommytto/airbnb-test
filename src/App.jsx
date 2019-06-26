@@ -1,9 +1,10 @@
 import React from 'react';
 import 'normalize.css/normalize.css';
-import './style/global.scss';
+import './style/index.scss';
+import Main from './components/Main';
 
 function App() {
-    return 'airbnb';
+    return <Main />;
 }
 
 export default App;

@@ -1,0 +1,9 @@
+@import "../../style/variables.scss";
+
+.header {
+  background-color: $c-white;
+  height: 100%;
+  width: 100%;
+  box-shadow: 0 1px 0 $c-white-10;
+  padding: 0 24px;
+}

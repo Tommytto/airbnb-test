@@ -1,0 +1,4 @@
+$width-sm: 744px;
+
+$min-width-sm: '(min-width: #{$width-sm})';
+$max-width-sm: '(max-width: #{$width-sm - 1})';

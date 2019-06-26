@@ -1,0 +1,1895 @@
+[
+  {
+    "action_kicker": "6 day trip",
+    "base_price": 226193,
+    "currency": {
+      "currency": "RUB",
+      "currency_symbol_comes_after_currency": true
+    },
+    "country": "Ecuador",
+    "display_text": "Galapagos Slow Food safari ~ CasaLago",
+    "id": 742474,
+    "is_social_good": true,
+    "kicker_text": "6 day trip · Puerto Ayora",
+    "lat": -0.7478394937314857,
+    "lng": -90.31528495834682,
+    "picture": {
+      "id": 779831407,
+      "dominant_saturated_color": "#023438",
+      "large_ro": "https://a0.muscache.com/im/pictures/21d39ca1-b1e9-449e-8041-7821908b8f50.jpg?aki_policy=large_ro",
+      "picture": "https://a0.muscache.com/im/pictures/21d39ca1-b1e9-449e-8041-7821908b8f50.jpg?aki_policy=large",
+      "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//AT4uKR8dHXeDgb+8r8TH0QEIHyEmKBznExn+/v705OkBARUZBBQOCB0c9fn+AvDzu6AT2oQys+oAAAAASUVORK5CYII=",
+      "saturated_a11y_dark_color": "#023438",
+      "scrim_color": "#051A1D",
+      "original_picture": "https://a0.muscache.com/pictures/21d39ca1-b1e9-449e-8041-7821908b8f50.jpg",
+      "xl_picture": "https://a0.muscache.com/im/pictures/21d39ca1-b1e9-449e-8041-7821908b8f50.jpg?aki_policy=x_large"
+    },
+    "poster_pictures": [
+      {
+        "id": 779831303,
+        "dominant_saturated_color": "#013739",
+        "caption": "",
+        "picture": "https://a0.muscache.com/im/pictures/e9a6ce71-6dbc-4a43-bf61-4f383e814561.jpg?aki_policy=large",
+        "original_picture": "https://a0.muscache.com/pictures/e9a6ce71-6dbc-4a43-bf61-4f383e814561.jpg",
+        "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAQAAAAFCAIAAADtz9qMAAAATElEQVQIHQFBAL7/AWpWUWNtayoxMMKvogFHNzJgYmElLSKmo6UBKj82/yEk6f3+/vDzAQkmIwMZGgUVEvTr8QEBHB4AExIACAgB9/kFJhay6pUAWwAAAABJRU5ErkJggg==",
+        "scrim_color": "#072120",
+        "poster": "https://a0.muscache.com/im/pictures/e9a6ce71-6dbc-4a43-bf61-4f383e814561.jpg?aki_policy=poster",
+        "xl_poster": "https://a0.muscache.com/im/pictures/e9a6ce71-6dbc-4a43-bf61-4f383e814561.jpg?aki_policy=xl_poster",
+        "xl_picture": "https://a0.muscache.com/im/pictures/e9a6ce71-6dbc-4a43-bf61-4f383e814561.jpg?aki_policy=x_large",
+        "provider": "pro_photo",
+        "sort_order": 1
+      },
+      {
+        "id": 778817513,
+        "dominant_saturated_color": "#5F741C",
+        "caption": "",
+        "picture": "https://a0.muscache.com/im/pictures/5ffb8498-08d5-4c81-9d46-84f71bd7901d.jpg?aki_policy=large",
+        "original_picture": "https://a0.muscache.com/pictures/5ffb8498-08d5-4c81-9d46-84f71bd7901d.jpg",
+        "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAQAAAAFCAIAAADtz9qMAAAATElEQVQIHQFBAL7/AUQ8Hh0gI/32+/Dw7QGCiE7v3/fx6/kNNw0BbXI1KBRAAP/72fe8AWFeQx4OJPzm4M380AFscC/u0Qfp8O8NJ/0p+CGPXmmDuQAAAABJRU5ErkJggg==",
+        "scrim_color": "#1E160B",
+        "poster": "https://a0.muscache.com/im/pictures/5ffb8498-08d5-4c81-9d46-84f71bd7901d.jpg?aki_policy=poster",
+        "xl_poster": "https://a0.muscache.com/im/pictures/5ffb8498-08d5-4c81-9d46-84f71bd7901d.jpg?aki_policy=xl_poster",
+        "xl_picture": "https://a0.muscache.com/im/pictures/5ffb8498-08d5-4c81-9d46-84f71bd7901d.jpg?aki_policy=x_large",
+        "provider": "pro_photo",
+        "sort_order": 2
+      }
+    ],
+    "primary_category": 6,
+    "product_type": 0,
+    "review_count": 0,
+    "star_rating": 0,
+    "tier_id": 0,
+    "title": "Galapagos Slow Food safari ~ CasaLago",
+    "availabilities": [],
+    "primary_category_name": "Nature",
+    "display_rating": 0,
+    "carousel_collection_multimedia": [
+      {
+        "picture": {
+          "id": 761744799,
+          "dominant_saturated_color": "#CBD4DD",
+          "caption": "",
+          "picture": "https://a0.muscache.com/im/pictures/1166220f-b958-40cb-adab-9ff65946ef85.jpg?aki_policy=large",
+          "original_picture": "https://a0.muscache.com/pictures/1166220f-b958-40cb-adab-9ff65946ef85.jpg",
+          "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAMAAAAFCAIAAAAPE8H1AAAAO0lEQVQIHWOMT0pkZmRSkpNjbG/rff/+rbyUOKObm4OCooKFpQFjZUO+gZnTk1e3GLccPs/CzPTn718AeTsSDClrBHsAAAAASUVORK5CYII=",
+          "scrim_color": "#151611",
+          "poster": "https://a0.muscache.com/im/pictures/1166220f-b958-40cb-adab-9ff65946ef85.jpg?aki_policy=poster",
+          "xl_poster": "https://a0.muscache.com/im/pictures/1166220f-b958-40cb-adab-9ff65946ef85.jpg?aki_policy=xl_poster",
+          "xl_picture": "https://a0.muscache.com/im/pictures/1166220f-b958-40cb-adab-9ff65946ef85.jpg?aki_policy=x_large",
+          "sort_order": 12
+        }
+      },
+      {
+        "picture": {
+          "id": 761746814,
+          "dominant_saturated_color": "#8A3212",
+          "caption": "",
+          "picture": "https://a0.muscache.com/im/pictures/d5737151-085d-4ff6-b795-394972d2a713.jpg?aki_policy=large",
+          "original_picture": "https://a0.muscache.com/pictures/d5737151-085d-4ff6-b795-394972d2a713.jpg",
+          "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//AZd1VggBCCg0N8ezqwHw6gGMWTb/6u3kGAQVEBkS6vgBjjgV9fj++h0G/PYCBOj+2jEV7j3zdM8AAAAASUVORK5CYII=",
+          "scrim_color": "#22140B",
+          "poster": "https://a0.muscache.com/im/pictures/d5737151-085d-4ff6-b795-394972d2a713.jpg?aki_policy=poster",
+          "xl_poster": "https://a0.muscache.com/im/pictures/d5737151-085d-4ff6-b795-394972d2a713.jpg?aki_policy=xl_poster",
+          "xl_picture": "https://a0.muscache.com/im/pictures/d5737151-085d-4ff6-b795-394972d2a713.jpg?aki_policy=x_large",
+          "sort_order": 13
+        }
+      },
+      {
+        "picture": {
+          "id": 716328046,
+          "dominant_saturated_color": "#44250A",
+          "caption": "",
+          "picture": "https://a0.muscache.com/im/pictures/0686ae01-8306-4063-9a53-1eafe17e15ce.jpg?aki_policy=large",
+          "original_picture": "https://a0.muscache.com/pictures/0686ae01-8306-4063-9a53-1eafe17e15ce.jpg",
+          "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAMAAAAFCAIAAAAPE8H1AAAAPUlEQVQIHQEyAM3/AZ9yKd/z98jR9QG5hECnuNUKAgQBc0kd1uf4DAUGAY9nTNfYzA8ACQHHqaOzqpL9AgplChbdxqCrXQAAAABJRU5ErkJggg==",
+          "scrim_color": "#110C06",
+          "poster": "https://a0.muscache.com/im/pictures/0686ae01-8306-4063-9a53-1eafe17e15ce.jpg?aki_policy=poster",
+          "xl_poster": "https://a0.muscache.com/im/pictures/0686ae01-8306-4063-9a53-1eafe17e15ce.jpg?aki_policy=xl_poster",
+          "xl_picture": "https://a0.muscache.com/im/pictures/0686ae01-8306-4063-9a53-1eafe17e15ce.jpg?aki_policy=x_large",
+          "sort_order": 2
+        }
+      }
+    ],
+    "display_mode": "BROWSE",
+    "host": {
+      "first_name": "Jill & Javier",
+      "has_profile_pic": false,
+      "id": 3850312,
+      "is_superhost": false
+    },
+    "spotlight_type": "DESCRIPTION",
+    "summaries": [
+      "Transportation, 7 nights accommodation, Food included"
+    ],
+    "kicker_text_color": "#767676",
+    "star_rating_color": "#008489",
+    "base_price_string": "226,193₽",
+    "is_new_pdp": true,
+    "price_string": "226,193₽ per person"
+  },
+  {
+    "action_kicker": "nature walk",
+    "base_price": 816,
+    "currency": {
+      "currency": "RUB",
+      "currency_symbol_comes_after_currency": true
+    },
+    "country": "India",
+    "display_text": "Dine and Tour in a Permaculture Forest",
+    "id": 430841,
+    "is_social_good": false,
+    "kicker_text": "nature walk · Sonada",
+    "lat": 26.95365861108839,
+    "lng": 88.29177269732232,
+    "picture": {
+      "id": 616289141,
+      "dominant_saturated_color": "#DE9922",
+      "large_ro": "https://a0.muscache.com/im/pictures/6bbd0848-2e93-454e-9fe3-2baaffd7a227.jpg?aki_policy=large_ro",
+      "picture": "https://a0.muscache.com/im/pictures/6bbd0848-2e93-454e-9fe3-2baaffd7a227.jpg?aki_policy=large",
+      "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAMAAAAFCAIAAAAPE8H1AAAAO0lEQVQIHWNUdVQX4GZ5+fg9o5aDqigfx4s3Hxm97NS1+X6f+cTA6OqsqiLN+4dTkFHSgN/eVE2SgxcAg/ANvOk11zYAAAAASUVORK5CYII=",
+      "saturated_a11y_dark_color": "#9B6A17",
+      "scrim_color": "#0A1004",
+      "original_picture": "https://a0.muscache.com/pictures/6bbd0848-2e93-454e-9fe3-2baaffd7a227.jpg",
+      "xl_picture": "https://a0.muscache.com/im/pictures/6bbd0848-2e93-454e-9fe3-2baaffd7a227.jpg?aki_policy=x_large"
+    },
+    "poster_pictures": [
+      {
+        "id": 616289141,
+        "dominant_saturated_color": "#DE9922",
+        "caption": "",
+        "picture": "https://a0.muscache.com/im/pictures/6bbd0848-2e93-454e-9fe3-2baaffd7a227.jpg?aki_policy=large",
+        "original_picture": "https://a0.muscache.com/pictures/6bbd0848-2e93-454e-9fe3-2baaffd7a227.jpg",
+        "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAMAAAAFCAIAAAAPE8H1AAAAO0lEQVQIHWNUdVQX4GZ5+fg9o5aDqigfx4s3Hxm97NS1+X6f+cTA6OqsqiLN+4dTkFHSgN/eVE2SgxcAg/ANvOk11zYAAAAASUVORK5CYII=",
+        "scrim_color": "#0A1004",
+        "poster": "https://a0.muscache.com/im/pictures/6bbd0848-2e93-454e-9fe3-2baaffd7a227.jpg?aki_policy=poster",
+        "xl_poster": "https://a0.muscache.com/im/pictures/6bbd0848-2e93-454e-9fe3-2baaffd7a227.jpg?aki_policy=xl_poster",
+        "xl_picture": "https://a0.muscache.com/im/pictures/6bbd0848-2e93-454e-9fe3-2baaffd7a227.jpg?aki_policy=x_large",
+        "provider": "host_provided_photo",
+        "sort_order": 1
+      }
+    ],
+    "primary_category": 6,
+    "product_type": 1,
+    "review_count": 16,
+    "star_rating": 5,
+    "tier_id": 0,
+    "title": "Dine and Tour in a Permaculture Forest",
+    "availabilities": [],
+    "primary_category_name": "Nature",
+    "display_rating": 4.94,
+    "carousel_collection_multimedia": [
+      {
+        "picture": {
+          "id": 670346151,
+          "dominant_saturated_color": "#699642",
+          "caption": "",
+          "picture": "https://a0.muscache.com/im/pictures/11e48b67-99b7-46e6-8450-4168bd542203.jpg?aki_policy=large",
+          "original_picture": "https://a0.muscache.com/pictures/11e48b67-99b7-46e6-8450-4168bd542203.jpg",
+          "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAAECAIAAADJUWIXAAAAS0lEQVQIHQFAAL//AZCwlPPz8NjLzRsgIhMUEgF9lo717O/07+omJR4LChQBgKSYvqK2GRAMMCMi+AIDAZyYndvR1gUAABIREvsHBdAYGpKMsmpfAAAAAElFTkSuQmCC",
+          "scrim_color": "#201E29",
+          "poster": "https://a0.muscache.com/im/pictures/11e48b67-99b7-46e6-8450-4168bd542203.jpg?aki_policy=poster",
+          "xl_poster": "https://a0.muscache.com/im/pictures/11e48b67-99b7-46e6-8450-4168bd542203.jpg?aki_policy=xl_poster",
+          "xl_picture": "https://a0.muscache.com/im/pictures/11e48b67-99b7-46e6-8450-4168bd542203.jpg?aki_policy=x_large",
+          "sort_order": 1
+        }
+      },
+      {
+        "picture": {
+          "id": 670346152,
+          "dominant_saturated_color": "#233C61",
+          "caption": "",
+          "picture": "https://a0.muscache.com/im/pictures/cb08dd6c-08a9-4e66-970b-f8fe81d71277.jpg?aki_policy=large",
+          "original_picture": "https://a0.muscache.com/pictures/cb08dd6c-08a9-4e66-970b-f8fe81d71277.jpg",
+          "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAQAAAAFCAIAAADtz9qMAAAATElEQVQIHQFBAL7/AWB3ay4tL/4BCyclIQFibl0GCTEvMxLW1rgBbYJc5+krEfTN9PHzAUZWPhwJIezZ2PcC/AFMZEgPCAr84vQGAgX8WBkogqJRMQAAAABJRU5ErkJggg==",
+          "scrim_color": "#332B28",
+          "poster": "https://a0.muscache.com/im/pictures/cb08dd6c-08a9-4e66-970b-f8fe81d71277.jpg?aki_policy=poster",
+          "xl_poster": "https://a0.muscache.com/im/pictures/cb08dd6c-08a9-4e66-970b-f8fe81d71277.jpg?aki_policy=xl_poster",
+          "xl_picture": "https://a0.muscache.com/im/pictures/cb08dd6c-08a9-4e66-970b-f8fe81d71277.jpg?aki_policy=x_large",
+          "sort_order": 2
+        }
+      },
+      {
+        "picture": {
+          "id": 670346154,
+          "dominant_saturated_color": "#1C260E",
+          "caption": "",
+          "picture": "https://a0.muscache.com/im/pictures/fec2ec75-3bfc-4148-8d07-d49073a5b10e.jpg?aki_policy=large",
+          "original_picture": "https://a0.muscache.com/pictures/fec2ec75-3bfc-4148-8d07-d49073a5b10e.jpg",
+          "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAAECAIAAADJUWIXAAAAS0lEQVQIHQFAAL//AT5UKwT7Avv8AQ8VAv4DAwFGXSYMBA3w6vceGhL4A/0BcGRG8Pb5SCss5f3v2+r4AZhyXQYEAxsQDN34+9Ly6w/cHC4ZhNT1AAAAAElFTkSuQmCC",
+          "scrim_color": "#1C260E",
+          "poster": "https://a0.muscache.com/im/pictures/fec2ec75-3bfc-4148-8d07-d49073a5b10e.jpg?aki_policy=poster",
+          "xl_poster": "https://a0.muscache.com/im/pictures/fec2ec75-3bfc-4148-8d07-d49073a5b10e.jpg?aki_policy=xl_poster",
+          "xl_picture": "https://a0.muscache.com/im/pictures/fec2ec75-3bfc-4148-8d07-d49073a5b10e.jpg?aki_policy=x_large",
+          "sort_order": 3
+        }
+      }
+    ],
+    "display_mode": "BROWSE",
+    "host": {
+      "first_name": "Utsow",
+      "has_profile_pic": false,
+      "id": 34613007,
+      "is_superhost": false
+    },
+    "spotlight_type": "DESCRIPTION",
+    "summaries": [
+      "4 hours",
+      "Food, Drinks included"
+    ],
+    "kicker_text_color": "#767676",
+    "star_rating_color": "#008489",
+    "base_price_string": "816₽",
+    "is_new_pdp": false,
+    "price_string": "816₽ per person"
+  },
+  {
+    "action_kicker": "nature walk",
+    "base_price": 1552,
+    "currency": {
+      "currency": "RUB",
+      "currency_symbol_comes_after_currency": true
+    },
+    "country": "United States",
+    "display_text": "Siskwit Falls River Walk and Picnic",
+    "id": 722223,
+    "is_social_good": false,
+    "kicker_text": "nature walk · Cornucopia",
+    "lat": 46.855576261902364,
+    "lng": -91.09139430249405,
+    "picture": {
+      "id": 781047333,
+      "dominant_saturated_color": "#8C8544",
+      "large_ro": "https://a0.muscache.com/im/pictures/3a0c463c-0c2f-424b-b857-c8c421e3f906.jpg?aki_policy=large_ro",
+      "picture": "https://a0.muscache.com/im/pictures/3a0c463c-0c2f-424b-b857-c8c421e3f906.jpg?aki_policy=large",
+      "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//AZeZlxMZGAQGAdzVxtjNxwGJiIwMEA308/HT0bz37O0Ba2RkFx4e39jRCAH5+fPrHVsYsr+CDHMAAAAASUVORK5CYII=",
+      "saturated_a11y_dark_color": "#7A743C",
+      "scrim_color": "#30231D",
+      "original_picture": "https://a0.muscache.com/pictures/3a0c463c-0c2f-424b-b857-c8c421e3f906.jpg",
+      "xl_picture": "https://a0.muscache.com/im/pictures/3a0c463c-0c2f-424b-b857-c8c421e3f906.jpg?aki_policy=x_large"
+    },
+    "poster_pictures": [
+      {
+        "id": 781047266,
+        "dominant_saturated_color": "#B2B472",
+        "caption": "",
+        "picture": "https://a0.muscache.com/im/pictures/9156ef67-7ffb-4ef3-be1f-74c2aa582363.jpg?aki_policy=large",
+        "original_picture": "https://a0.muscache.com/pictures/9156ef67-7ffb-4ef3-be1f-74c2aa582363.jpg",
+        "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAMAAAAFCAIAAAAPE8H1AAAAPUlEQVQIHQEyAM3/Abi+kM/T2tzI1gGttazz8+XPwL4Bk5aX6ejd2s/GAXVycfHo3P/48QFMOzATEQg6OCZJEh11VpJKMAAAAABJRU5ErkJggg==",
+        "scrim_color": "#30231D",
+        "poster": "https://a0.muscache.com/im/pictures/9156ef67-7ffb-4ef3-be1f-74c2aa582363.jpg?aki_policy=poster",
+        "xl_poster": "https://a0.muscache.com/im/pictures/9156ef67-7ffb-4ef3-be1f-74c2aa582363.jpg?aki_policy=xl_poster",
+        "xl_picture": "https://a0.muscache.com/im/pictures/9156ef67-7ffb-4ef3-be1f-74c2aa582363.jpg?aki_policy=x_large",
+        "provider": "stock_photo",
+        "sort_order": 3
+      }
+    ],
+    "primary_category": 6,
+    "product_type": 1,
+    "review_count": 0,
+    "star_rating": 0,
+    "tier_id": 0,
+    "title": "Siskwit Falls River Walk and Picnic",
+    "availabilities": [],
+    "primary_category_name": "Nature",
+    "display_rating": 0,
+    "carousel_collection_multimedia": [
+      {
+        "picture": {
+          "id": 780057087,
+          "dominant_saturated_color": "#EFDEB5",
+          "caption": "Oliver, our adorable tour guide.",
+          "picture": "https://a0.muscache.com/im/pictures/0f1b44c0-69b9-4c25-9598-b38f24bc8e69.jpg?aki_policy=large",
+          "original_picture": "https://a0.muscache.com/pictures/0f1b44c0-69b9-4c25-9598-b38f24bc8e69.jpg",
+          "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAQAAAAFCAIAAADtz9qMAAAATElEQVQIHQFBAL7/AScmIBAUFT48HTgsKgFiZG0UDQM4JREPCAABZmt68uPa+/fn/Qf/AVhYYv303+719AIECgFcWnv47cr9//Hs9gKdFRv9sW5O4gAAAABJRU5ErkJggg==",
+          "scrim_color": "#181A19",
+          "poster": "https://a0.muscache.com/im/pictures/0f1b44c0-69b9-4c25-9598-b38f24bc8e69.jpg?aki_policy=poster",
+          "xl_poster": "https://a0.muscache.com/im/pictures/0f1b44c0-69b9-4c25-9598-b38f24bc8e69.jpg?aki_policy=xl_poster",
+          "xl_picture": "https://a0.muscache.com/im/pictures/0f1b44c0-69b9-4c25-9598-b38f24bc8e69.jpg?aki_policy=x_large",
+          "sort_order": 1
+        }
+      },
+      {
+        "picture": {
+          "id": 781190549,
+          "dominant_saturated_color": "#C68B76",
+          "caption": "Serenity ",
+          "picture": "https://a0.muscache.com/im/pictures/c2bba20c-c799-498f-973f-28bbc956906b.jpg?aki_policy=large",
+          "original_picture": "https://a0.muscache.com/pictures/c2bba20c-c799-498f-973f-28bbc956906b.jpg",
+          "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAMAAAAFCAIAAAAPE8H1AAAAO0lEQVQIHWNcvn4mw89/PBJCjDXF6TJysvxyEoyFucFycioMbL8ZFWTFWRgZGRkYGHc3Zv3+84+BkRkAZ+INoMS0SkMAAAAASUVORK5CYII=",
+          "scrim_color": "#12110C",
+          "poster": "https://a0.muscache.com/im/pictures/c2bba20c-c799-498f-973f-28bbc956906b.jpg?aki_policy=poster",
+          "xl_poster": "https://a0.muscache.com/im/pictures/c2bba20c-c799-498f-973f-28bbc956906b.jpg?aki_policy=xl_poster",
+          "xl_picture": "https://a0.muscache.com/im/pictures/c2bba20c-c799-498f-973f-28bbc956906b.jpg?aki_policy=x_large",
+          "sort_order": 2
+        }
+      },
+      {
+        "picture": {
+          "id": 786132663,
+          "dominant_saturated_color": "#CBD575",
+          "caption": "Water is rarely up to mid -calf.",
+          "picture": "https://a0.muscache.com/im/pictures/41a8992a-8e6e-4140-b3ca-b464e2f52c36.jpg?aki_policy=large",
+          "original_picture": "https://a0.muscache.com/pictures/41a8992a-8e6e-4140-b3ca-b464e2f52c36.jpg",
+          "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAACCAIAAAAfCIEKAAAAK0lEQVQIHQEgAN//AS0xKDc8ORwgAdPhxuTb8QGqt8vWzMTSy8L//fbl49rsNRMhb+IK6wAAAABJRU5ErkJggg==",
+          "scrim_color": "#1F1F15",
+          "poster": "https://a0.muscache.com/im/pictures/41a8992a-8e6e-4140-b3ca-b464e2f52c36.jpg?aki_policy=poster",
+          "xl_poster": "https://a0.muscache.com/im/pictures/41a8992a-8e6e-4140-b3ca-b464e2f52c36.jpg?aki_policy=xl_poster",
+          "xl_picture": "https://a0.muscache.com/im/pictures/41a8992a-8e6e-4140-b3ca-b464e2f52c36.jpg?aki_policy=x_large",
+          "sort_order": 3
+        }
+      }
+    ],
+    "display_mode": "BROWSE",
+    "host": {
+      "first_name": "Mark And Kelly",
+      "has_profile_pic": false,
+      "id": 10681204,
+      "is_superhost": false
+    },
+    "spotlight_type": "DESCRIPTION",
+    "summaries": [
+      "2 hours",
+      "Transportation, Food, Equipment included"
+    ],
+    "kicker_text_color": "#767676",
+    "star_rating_color": "#008489",
+    "base_price_string": "1,552₽",
+    "is_new_pdp": false,
+    "price_string": "1,552₽ per person"
+  },
+  {
+    "action_kicker": "wine tasting",
+    "base_price": 970,
+    "currency": {
+      "currency": "RUB",
+      "currency_symbol_comes_after_currency": true
+    },
+    "country": "United States",
+    "display_text": "Take 'Flight' #GilligWinery",
+    "id": 432217,
+    "is_social_good": false,
+    "kicker_text": "wine tasting · Findlay",
+    "lat": 41.03664300714769,
+    "lng": -83.69023571956323,
+    "picture": {
+      "id": 680031297,
+      "dominant_saturated_color": "#C4B06E",
+      "large_ro": "https://a0.muscache.com/im/pictures/a93dbf84-ac0b-4298-89cb-546b04b9714d.jpg?aki_policy=large_ro",
+      "picture": "https://a0.muscache.com/im/pictures/a93dbf84-ac0b-4298-89cb-546b04b9714d.jpg?aki_policy=large",
+      "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//AamVdSIsH/7/FwcOE9nMywGwjnXw+/Hl3/UqPTbVv8oBpqGg6OjkBfn+vsrVBgQDWmEaFJc3Ye4AAAAASUVORK5CYII=",
+      "saturated_a11y_dark_color": "#7D6C33",
+      "scrim_color": "#171B26",
+      "original_picture": "https://a0.muscache.com/pictures/a93dbf84-ac0b-4298-89cb-546b04b9714d.jpg",
+      "xl_picture": "https://a0.muscache.com/im/pictures/a93dbf84-ac0b-4298-89cb-546b04b9714d.jpg?aki_policy=x_large"
+    },
+    "poster_pictures": [
+      {
+        "id": 680031101,
+        "dominant_saturated_color": "#4264A8",
+        "caption": "",
+        "picture": "https://a0.muscache.com/im/pictures/79468149-841f-4877-a048-91a65acf13f5.jpg?aki_policy=large",
+        "original_picture": "https://a0.muscache.com/pictures/79468149-841f-4877-a048-91a65acf13f5.jpg",
+        "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAMAAAAFCAIAAAAPE8H1AAAAPUlEQVQIHQEyAM3/AdbRuQUJIPf28AGchG1AU13PxbQBelZMPlJD3NTdAX1oZQgOCtbc5wGuoZ6ZpLMTCg1V0Ba8VBg17wAAAABJRU5ErkJggg==",
+        "scrim_color": "#1A1A22",
+        "poster": "https://a0.muscache.com/im/pictures/79468149-841f-4877-a048-91a65acf13f5.jpg?aki_policy=poster",
+        "xl_poster": "https://a0.muscache.com/im/pictures/79468149-841f-4877-a048-91a65acf13f5.jpg?aki_policy=xl_poster",
+        "xl_picture": "https://a0.muscache.com/im/pictures/79468149-841f-4877-a048-91a65acf13f5.jpg?aki_policy=x_large",
+        "provider": "stock_photo",
+        "sort_order": 1
+      }
+    ],
+    "primary_category": 7,
+    "product_type": 1,
+    "review_count": 1,
+    "star_rating": 5,
+    "tier_id": 0,
+    "title": "Take 'Flight' #GilligWinery",
+    "availabilities": [],
+    "primary_category_name": "Food & Drink",
+    "display_rating": 5,
+    "carousel_collection_multimedia": [
+      {
+        "picture": {
+          "id": 680031481,
+          "dominant_saturated_color": "#6C3A30",
+          "caption": "",
+          "picture": "https://a0.muscache.com/im/pictures/d8db34f6-672e-44b6-846b-b031a14e95bf.jpg?aki_policy=large",
+          "original_picture": "https://a0.muscache.com/pictures/d8db34f6-672e-44b6-846b-b031a14e95bf.jpg",
+          "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAQAAAAFCAIAAADtz9qMAAAATElEQVQIHQFBAL7/AUo2M/z6/vb5+vDy9AGAW1D8Awr9+vnb3t4BaE1JChge/fv93ublAZdXQOPv9Nz0Aer5/wGSVkQSEAoGBgHc3+gAQiSy3bSlGQAAAABJRU5ErkJggg==",
+          "scrim_color": "#231921",
+          "poster": "https://a0.muscache.com/im/pictures/d8db34f6-672e-44b6-846b-b031a14e95bf.jpg?aki_policy=poster",
+          "xl_poster": "https://a0.muscache.com/im/pictures/d8db34f6-672e-44b6-846b-b031a14e95bf.jpg?aki_policy=xl_poster",
+          "xl_picture": "https://a0.muscache.com/im/pictures/d8db34f6-672e-44b6-846b-b031a14e95bf.jpg?aki_policy=x_large",
+          "provider": "host_provided_photo",
+          "sort_order": 1
+        }
+      },
+      {
+        "picture": {
+          "id": 680031482,
+          "dominant_saturated_color": "#E9DDCD",
+          "caption": "",
+          "picture": "https://a0.muscache.com/im/pictures/c809485a-6ea5-43be-a05e-a8acf918cb15.jpg?aki_policy=large",
+          "original_picture": "https://a0.muscache.com/pictures/c809485a-6ea5-43be-a05e-a8acf918cb15.jpg",
+          "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAQAAAAFCAIAAADtz9qMAAAATElEQVQIHQFBAL7/ASEhHP38/Pj4+PX1+AEaHBf09PYAAAD+/f0BlY+E9fT1GRYTAAH+ATAvKQD//w4NDAMCAQFXQy4LCAUAAAD09/skcBuGzMmisQAAAABJRU5ErkJggg==",
+          "scrim_color": "#040402",
+          "poster": "https://a0.muscache.com/im/pictures/c809485a-6ea5-43be-a05e-a8acf918cb15.jpg?aki_policy=poster",
+          "xl_poster": "https://a0.muscache.com/im/pictures/c809485a-6ea5-43be-a05e-a8acf918cb15.jpg?aki_policy=xl_poster",
+          "xl_picture": "https://a0.muscache.com/im/pictures/c809485a-6ea5-43be-a05e-a8acf918cb15.jpg?aki_policy=x_large",
+          "provider": "host_provided_photo",
+          "sort_order": 2
+        }
+      }
+    ],
+    "display_mode": "BROWSE",
+    "host": {
+      "first_name": "Mary",
+      "has_profile_pic": false,
+      "id": 189729071,
+      "is_superhost": false
+    },
+    "spotlight_type": "DESCRIPTION",
+    "summaries": [
+      "2 hours",
+      "Transportation, Drinks included"
+    ],
+    "kicker_text_color": "#767676",
+    "star_rating_color": "#008489",
+    "base_price_string": "970₽",
+    "is_new_pdp": false,
+    "price_string": "970₽ per person"
+  },
+  {
+    "action_kicker": "cooking class",
+    "base_price": 3575,
+    "currency": {
+      "currency": "RUB",
+      "currency_symbol_comes_after_currency": true
+    },
+    "country": "Bulgaria",
+    "display_text": "Eat pasta with locals",
+    "id": 733665,
+    "is_social_good": false,
+    "kicker_text": "cooking class · Sunny Beach",
+    "lat": 42.7136598783611,
+    "lng": 27.744846650070293,
+    "picture": {
+      "id": 717688749,
+      "dominant_saturated_color": "#E0AB88",
+      "large_ro": "https://a0.muscache.com/im/pictures/58a1841a-5bf8-4c61-9ee4-3cde11e94db5.jpg?aki_policy=large_ro",
+      "picture": "https://a0.muscache.com/im/pictures/58a1841a-5bf8-4c61-9ee4-3cde11e94db5.jpg?aki_policy=large",
+      "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//Ab1+a8/p8/8HDDRHSQrk2AHDi3jkHTYMCQQG7OMP/fEB08C5/vTmCBIX2eLv8d7JOHYZcEbmP6MAAAAASUVORK5CYII=",
+      "saturated_a11y_dark_color": "#A35A29",
+      "scrim_color": "#3D2922",
+      "original_picture": "https://a0.muscache.com/pictures/58a1841a-5bf8-4c61-9ee4-3cde11e94db5.jpg",
+      "xl_picture": "https://a0.muscache.com/im/pictures/58a1841a-5bf8-4c61-9ee4-3cde11e94db5.jpg?aki_policy=x_large"
+    },
+    "poster_pictures": [
+      {
+        "id": 717688506,
+        "dominant_saturated_color": "#E0AE7C",
+        "caption": "",
+        "picture": "https://a0.muscache.com/im/pictures/53fbbf53-357c-4258-b151-36d2ea78d739.jpg?aki_policy=large",
+        "original_picture": "https://a0.muscache.com/pictures/53fbbf53-357c-4258-b151-36d2ea78d739.jpg",
+        "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAMAAAAFCAIAAAAPE8H1AAAAPUlEQVQIHQEyAM3/AWY2Jy4oKRs5MAGJfoIPEAsuNTsBpqq0GBIK+eTfAbWwqBcYH+/1/QHTqYkHGiXe6f2CQxNcsJ7ajwAAAABJRU5ErkJggg==",
+        "scrim_color": "#2B1812",
+        "poster": "https://a0.muscache.com/im/pictures/53fbbf53-357c-4258-b151-36d2ea78d739.jpg?aki_policy=poster",
+        "xl_poster": "https://a0.muscache.com/im/pictures/53fbbf53-357c-4258-b151-36d2ea78d739.jpg?aki_policy=xl_poster",
+        "xl_picture": "https://a0.muscache.com/im/pictures/53fbbf53-357c-4258-b151-36d2ea78d739.jpg?aki_policy=x_large",
+        "provider": "stock_photo",
+        "sort_order": 1
+      }
+    ],
+    "primary_category": 7,
+    "product_type": 1,
+    "review_count": 0,
+    "star_rating": 0,
+    "tier_id": 0,
+    "title": "Eat pasta with locals",
+    "availabilities": [],
+    "primary_category_name": "Food & Drink",
+    "display_rating": 0,
+    "carousel_collection_multimedia": [
+      {
+        "picture": {
+          "id": 717689300,
+          "dominant_saturated_color": "#C13A09",
+          "caption": "",
+          "picture": "https://a0.muscache.com/im/pictures/7e543d08-626c-4d1e-980a-8534b8373cbf.jpg?aki_policy=large",
+          "original_picture": "https://a0.muscache.com/pictures/7e543d08-626c-4d1e-980a-8534b8373cbf.jpg",
+          "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//Afn48//99tnfyRMIFvv8AQHu3srrt4np/eYd+P4IGzcB2cy25qeOAfPsFSAPDSxH+PsbmGOVWDYAAAAASUVORK5CYII=",
+          "scrim_color": "#781706",
+          "poster": "https://a0.muscache.com/im/pictures/7e543d08-626c-4d1e-980a-8534b8373cbf.jpg?aki_policy=poster",
+          "xl_poster": "https://a0.muscache.com/im/pictures/7e543d08-626c-4d1e-980a-8534b8373cbf.jpg?aki_policy=xl_poster",
+          "xl_picture": "https://a0.muscache.com/im/pictures/7e543d08-626c-4d1e-980a-8534b8373cbf.jpg?aki_policy=x_large",
+          "provider": "host_provided_photo",
+          "sort_order": 1
+        }
+      },
+      {
+        "picture": {
+          "id": 717689302,
+          "dominant_saturated_color": "#E9E2BD",
+          "caption": "",
+          "picture": "https://a0.muscache.com/im/pictures/fd8654f6-a7aa-40ff-b21f-dac759de51d1.jpg?aki_policy=large",
+          "original_picture": "https://a0.muscache.com/pictures/fd8654f6-a7aa-40ff-b21f-dac759de51d1.jpg",
+          "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAMAAAAFCAIAAAAPE8H1AAAAPUlEQVQIHQEyAM3/Ac/GoHB2nktHRAGupYR8haotKygBQz83HRsW5en0AYiEczAmBfT4+gF5dGMhGwjm7PkPzxV/QQeYNgAAAABJRU5ErkJggg==",
+          "scrim_color": "#100F14",
+          "poster": "https://a0.muscache.com/im/pictures/fd8654f6-a7aa-40ff-b21f-dac759de51d1.jpg?aki_policy=poster",
+          "xl_poster": "https://a0.muscache.com/im/pictures/fd8654f6-a7aa-40ff-b21f-dac759de51d1.jpg?aki_policy=xl_poster",
+          "xl_picture": "https://a0.muscache.com/im/pictures/fd8654f6-a7aa-40ff-b21f-dac759de51d1.jpg?aki_policy=x_large",
+          "provider": "host_provided_photo",
+          "sort_order": 2
+        }
+      }
+    ],
+    "display_mode": "BROWSE",
+    "host": {
+      "first_name": "Alex",
+      "has_profile_pic": false,
+      "id": 63515332,
+      "is_superhost": false
+    },
+    "spotlight_type": "DESCRIPTION",
+    "summaries": [
+      "3 hours",
+      "Food, Drinks, Equipment included"
+    ],
+    "kicker_text_color": "#767676",
+    "star_rating_color": "#008489",
+    "base_price_string": "3,575₽",
+    "is_new_pdp": false,
+    "price_string": "3,575₽ per person"
+  },
+  {
+    "action_kicker": "food tasting",
+    "base_price": 2698,
+    "currency": {
+      "currency": "RUB",
+      "currency_symbol_comes_after_currency": true
+    },
+    "country": "Canada",
+    "display_text": "Exchange district: Food, Walk and Talk!",
+    "id": 894612,
+    "is_social_good": false,
+    "kicker_text": "food tasting · Winnipeg",
+    "lat": 49.899612672644416,
+    "lng": -97.14068947222025,
+    "picture": {
+      "id": 771427165,
+      "dominant_saturated_color": "#D2A57E",
+      "large_ro": "https://a0.muscache.com/im/pictures/eb33dee0-4cf4-44a0-ae6c-4d95bb37499b.jpg?aki_policy=large_ro",
+      "picture": "https://a0.muscache.com/im/pictures/eb33dee0-4cf4-44a0-ae6c-4d95bb37499b.jpg?aki_policy=large",
+      "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAOUlEQVQIHWPszvJnZ/hvZ200bcUOcUFOxlA/ZzF+flUxLhYJg1OH1jMG2OpcfPFDWoD9w5efmjL8AF2uD9Pzrs+kAAAAAElFTkSuQmCC",
+      "saturated_a11y_dark_color": "#986436",
+      "scrim_color": "#181818",
+      "original_picture": "https://a0.muscache.com/pictures/eb33dee0-4cf4-44a0-ae6c-4d95bb37499b.jpg",
+      "xl_picture": "https://a0.muscache.com/im/pictures/eb33dee0-4cf4-44a0-ae6c-4d95bb37499b.jpg?aki_policy=x_large"
+    },
+    "poster_pictures": [
+      {
+        "id": 771427165,
+        "dominant_saturated_color": "#D2A57E",
+        "caption": "",
+        "picture": "https://a0.muscache.com/im/pictures/eb33dee0-4cf4-44a0-ae6c-4d95bb37499b.jpg?aki_policy=large",
+        "original_picture": "https://a0.muscache.com/pictures/eb33dee0-4cf4-44a0-ae6c-4d95bb37499b.jpg",
+        "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAOUlEQVQIHWPszvJnZ/hvZ200bcUOcUFOxlA/ZzF+flUxLhYJg1OH1jMG2OpcfPFDWoD9w5efmjL8AF2uD9Pzrs+kAAAAAElFTkSuQmCC",
+        "scrim_color": "#181818",
+        "poster": "https://a0.muscache.com/im/pictures/eb33dee0-4cf4-44a0-ae6c-4d95bb37499b.jpg?aki_policy=poster",
+        "xl_poster": "https://a0.muscache.com/im/pictures/eb33dee0-4cf4-44a0-ae6c-4d95bb37499b.jpg?aki_policy=xl_poster",
+        "xl_picture": "https://a0.muscache.com/im/pictures/eb33dee0-4cf4-44a0-ae6c-4d95bb37499b.jpg?aki_policy=x_large",
+        "provider": "host_provided_photo",
+        "sort_order": 1
+      }
+    ],
+    "primary_category": 7,
+    "product_type": 1,
+    "review_count": 1,
+    "star_rating": 5,
+    "tier_id": 0,
+    "title": "Exchange district: Food, Walk and Talk!",
+    "availabilities": [],
+    "primary_category_name": "Food & Drink",
+    "display_rating": 5,
+    "carousel_collection_multimedia": [
+      {
+        "picture": {
+          "id": 771427167,
+          "dominant_saturated_color": "#764D2E",
+          "caption": "Inspiration comes from locals favourite",
+          "picture": "https://a0.muscache.com/im/pictures/489ccb0f-fb41-46fa-ae75-de0d34195cc9.jpg?aki_policy=large",
+          "original_picture": "https://a0.muscache.com/pictures/489ccb0f-fb41-46fa-ae75-de0d34195cc9.jpg",
+          "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAMAAAAFCAIAAAAPE8H1AAAAPUlEQVQIHQEyAM3/Abm/wfX19u7w8AHMvq4KBwf7/gEBuKaaCxIQ6+fpAVBMR0Q6MjE4PwEPERIbGRP5+wGcaRXAkeh2iAAAAABJRU5ErkJggg==",
+          "scrim_color": "#0E0F11",
+          "poster": "https://a0.muscache.com/im/pictures/489ccb0f-fb41-46fa-ae75-de0d34195cc9.jpg?aki_policy=poster",
+          "xl_poster": "https://a0.muscache.com/im/pictures/489ccb0f-fb41-46fa-ae75-de0d34195cc9.jpg?aki_policy=xl_poster",
+          "xl_picture": "https://a0.muscache.com/im/pictures/489ccb0f-fb41-46fa-ae75-de0d34195cc9.jpg?aki_policy=x_large",
+          "sort_order": 1
+        }
+      },
+      {
+        "picture": {
+          "id": 771427169,
+          "dominant_saturated_color": "#633D2D",
+          "caption": "A bit of my passion shared with you. ",
+          "picture": "https://a0.muscache.com/im/pictures/78b14897-2375-4d39-97bc-f38d216a15a9.jpg?aki_policy=large",
+          "original_picture": "https://a0.muscache.com/pictures/78b14897-2375-4d39-97bc-f38d216a15a9.jpg",
+          "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAAECAIAAADJUWIXAAAAS0lEQVQIHQFAAL//AVQ+Le/4/wUJBAkPC+z08AE7MSoF/PshHhz/DxL19fYBfmtb+P0IEwwHEBMOCAsMAa+birjE0igbFDEyLAECAhtHFmCvnCQoAAAAAElFTkSuQmCC",
+          "scrim_color": "#191917",
+          "poster": "https://a0.muscache.com/im/pictures/78b14897-2375-4d39-97bc-f38d216a15a9.jpg?aki_policy=poster",
+          "xl_poster": "https://a0.muscache.com/im/pictures/78b14897-2375-4d39-97bc-f38d216a15a9.jpg?aki_policy=xl_poster",
+          "xl_picture": "https://a0.muscache.com/im/pictures/78b14897-2375-4d39-97bc-f38d216a15a9.jpg?aki_policy=x_large",
+          "sort_order": 2
+        }
+      },
+      {
+        "picture": {
+          "id": 771427172,
+          "dominant_saturated_color": "#B4614C",
+          "caption": "Personal suggestions. ",
+          "picture": "https://a0.muscache.com/im/pictures/d2355f51-a188-4078-bc60-bdb61f7be604.jpg?aki_policy=large",
+          "original_picture": "https://a0.muscache.com/pictures/d2355f51-a188-4078-bc60-bdb61f7be604.jpg",
+          "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAAECAIAAADJUWIXAAAAS0lEQVQIHQFAAL//AYJmWPPu7Ar/AeLz9/7u9gFUUE8kDAAQICfz+//v1cQBhW9jISMvs8C8IyUlwsPCAW1bUKS4xSUfFQP+Av0AASK2HfklpDE5AAAAAElFTkSuQmCC",
+          "scrim_color": "#121315",
+          "poster": "https://a0.muscache.com/im/pictures/d2355f51-a188-4078-bc60-bdb61f7be604.jpg?aki_policy=poster",
+          "xl_poster": "https://a0.muscache.com/im/pictures/d2355f51-a188-4078-bc60-bdb61f7be604.jpg?aki_policy=xl_poster",
+          "xl_picture": "https://a0.muscache.com/im/pictures/d2355f51-a188-4078-bc60-bdb61f7be604.jpg?aki_policy=x_large",
+          "sort_order": 3
+        }
+      }
+    ],
+    "display_mode": "BROWSE",
+    "host": {
+      "first_name": "Anna",
+      "has_profile_pic": false,
+      "id": 28280525,
+      "is_superhost": false
+    },
+    "spotlight_type": "DESCRIPTION",
+    "summaries": [
+      "2.5 hours",
+      "Food, Drinks included"
+    ],
+    "kicker_text_color": "#767676",
+    "star_rating_color": "#008489",
+    "base_price_string": "2,698₽",
+    "is_new_pdp": false,
+    "price_string": "2,698₽ per person"
+  },
+  {
+    "action_kicker": "food walk",
+    "base_price": 2811,
+    "currency": {
+      "currency": "RUB",
+      "currency_symbol_comes_after_currency": true
+    },
+    "country": "Malaysia",
+    "display_text": "用最纯真的心灵去聆听斗湖大自然 Sounds of nature",
+    "id": 658541,
+    "is_social_good": false,
+    "kicker_text": "food walk · Tawau",
+    "lat": 4.246991715778114,
+    "lng": 117.88914490169333,
+    "picture": {
+      "id": 692855950,
+      "dominant_saturated_color": "#D09460",
+      "large_ro": "https://a0.muscache.com/im/pictures/7ebb675f-e36d-4b6e-8d73-bc9b73a49e39.jpg?aki_policy=large_ro",
+      "picture": "https://a0.muscache.com/im/pictures/7ebb675f-e36d-4b6e-8d73-bc9b73a49e39.jpg?aki_policy=large",
+      "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//AXxnSxonQf7+/BQNDvTe0wGmlIb78vMdJiTZyMEA9PwBtHpVFh0L6+wNCwr4AfbzM9EXdUGwWSUAAAAASUVORK5CYII=",
+      "saturated_a11y_dark_color": "#9A602E",
+      "scrim_color": "#2A130D",
+      "original_picture": "https://a0.muscache.com/pictures/7ebb675f-e36d-4b6e-8d73-bc9b73a49e39.jpg",
+      "xl_picture": "https://a0.muscache.com/im/pictures/7ebb675f-e36d-4b6e-8d73-bc9b73a49e39.jpg?aki_policy=x_large"
+    },
+    "poster_pictures": [
+      {
+        "id": 692855325,
+        "dominant_saturated_color": "#D59D5D",
+        "caption": "",
+        "picture": "https://a0.muscache.com/im/pictures/70deadf8-0f10-4cdd-89f7-b925d384ee48.jpg?aki_policy=large",
+        "original_picture": "https://a0.muscache.com/pictures/70deadf8-0f10-4cdd-89f7-b925d384ee48.jpg",
+        "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAMAAAAFCAIAAAAPE8H1AAAAPUlEQVQIHQEyAM3/AYV/feri2z9GTwG7qJ4IGSX27OQBoIh8IiUg2MnCAd2ueuDcAQAVAgGWbUTy8QEF/fNXMxd2qf9lLwAAAABJRU5ErkJggg==",
+        "scrim_color": "#1C0F09",
+        "poster": "https://a0.muscache.com/im/pictures/70deadf8-0f10-4cdd-89f7-b925d384ee48.jpg?aki_policy=poster",
+        "xl_poster": "https://a0.muscache.com/im/pictures/70deadf8-0f10-4cdd-89f7-b925d384ee48.jpg?aki_policy=xl_poster",
+        "xl_picture": "https://a0.muscache.com/im/pictures/70deadf8-0f10-4cdd-89f7-b925d384ee48.jpg?aki_policy=x_large",
+        "provider": "stock_photo",
+        "sort_order": 1
+      }
+    ],
+    "primary_category": 7,
+    "product_type": 1,
+    "review_count": 0,
+    "star_rating": 0,
+    "tier_id": 0,
+    "title": "用最纯真的心灵去聆听斗湖大自然 Sounds of nature",
+    "availabilities": [],
+    "primary_category_name": "Food & Drink",
+    "display_rating": 0,
+    "display_mode": "BROWSE",
+    "host": {
+      "first_name": "Edmund",
+      "has_profile_pic": false,
+      "id": 134324955,
+      "is_superhost": false
+    },
+    "spotlight_type": "DESCRIPTION",
+    "summaries": [
+      "3 hours",
+      "Transportation, Food, 1 ticket included"
+    ],
+    "kicker_text_color": "#767676",
+    "star_rating_color": "#008489",
+    "offered_languages_text": "Also offered in Chinese (Simplified)",
+    "base_price_string": "2,811₽",
+    "is_new_pdp": false,
+    "price_string": "2,811₽ per person"
+  },
+  {
+    "action_kicker": "social gathering",
+    "base_price": 1939,
+    "currency": {
+      "currency": "RUB",
+      "currency_symbol_comes_after_currency": true
+    },
+    "country": "United States",
+    "display_text": "Afternoon Tea in an elegant library",
+    "id": 363901,
+    "is_social_good": false,
+    "kicker_text": "social gathering · Floyd",
+    "lat": 37.00048264699285,
+    "lng": -80.30604415635956,
+    "picture": {
+      "id": 582039266,
+      "dominant_saturated_color": "#5D1E07",
+      "large_ro": "https://a0.muscache.com/im/pictures/5346fc7a-4af2-4b04-8031-00d421003f88.jpg?aki_policy=large_ro",
+      "picture": "https://a0.muscache.com/im/pictures/5346fc7a-4af2-4b04-8031-00d421003f88.jpg?aki_policy=large",
+      "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//Aa2lfAT9EcWaluzw8Q0yOwGSiGckFSOafoQUJyZFYGoBm5+CHhQr1baqBBsjDhwm8D8R6Xx2TaUAAAAASUVORK5CYII=",
+      "saturated_a11y_dark_color": "#5D1E07",
+      "scrim_color": "#251313",
+      "original_picture": "https://a0.muscache.com/pictures/5346fc7a-4af2-4b04-8031-00d421003f88.jpg",
+      "xl_picture": "https://a0.muscache.com/im/pictures/5346fc7a-4af2-4b04-8031-00d421003f88.jpg?aki_policy=x_large"
+    },
+    "poster_pictures": [
+      {
+        "id": 582039257,
+        "dominant_saturated_color": "#54220C",
+        "caption": "",
+        "picture": "https://a0.muscache.com/im/pictures/60a70a61-5eef-447d-b447-934c33789986.jpg?aki_policy=large",
+        "original_picture": "https://a0.muscache.com/pictures/60a70a61-5eef-447d-b447-934c33789986.jpg",
+        "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAMAAAAFCAIAAAAPE8H1AAAAPUlEQVQIHQEyAM3/AWVSL/75CLzB0AGakXHWq7Db8f8BnI920qWqKEZGAbGvnde4uwQjMgG1taDerKf+DBOmeho+eqeExQAAAABJRU5ErkJggg==",
+        "scrim_color": "#24110D",
+        "poster": "https://a0.muscache.com/im/pictures/60a70a61-5eef-447d-b447-934c33789986.jpg?aki_policy=poster",
+        "xl_poster": "https://a0.muscache.com/im/pictures/60a70a61-5eef-447d-b447-934c33789986.jpg?aki_policy=xl_poster",
+        "xl_picture": "https://a0.muscache.com/im/pictures/60a70a61-5eef-447d-b447-934c33789986.jpg?aki_policy=x_large",
+        "provider": "host_provided_photo",
+        "sort_order": 1
+      }
+    ],
+    "primary_category": 3,
+    "product_type": 1,
+    "review_count": 3,
+    "star_rating": 5,
+    "tier_id": 0,
+    "title": "Afternoon Tea in an elegant library",
+    "availabilities": [],
+    "primary_category_name": "Entertainment",
+    "display_rating": 5,
+    "carousel_collection_multimedia": [
+      {
+        "picture": {
+          "id": 670138206,
+          "dominant_saturated_color": "#C05006",
+          "caption": "",
+          "picture": "https://a0.muscache.com/im/pictures/f126f92b-8598-4f89-83ec-1c8f85ac27b4.jpg?aki_policy=large",
+          "original_picture": "https://a0.muscache.com/pictures/f126f92b-8598-4f89-83ec-1c8f85ac27b4.jpg",
+          "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAMAAAAFCAIAAAAPE8H1AAAAO0lEQVQIHWN82Gsk7h7z+ckLxuNJ/Nxy8oK8HIxHczR4pKXZGH4zLg5X5/j3hYlXjrFZh9MgwPX9wwcApbsQ1o23/KsAAAAASUVORK5CYII=",
+          "scrim_color": "#58290F",
+          "poster": "https://a0.muscache.com/im/pictures/f126f92b-8598-4f89-83ec-1c8f85ac27b4.jpg?aki_policy=poster",
+          "xl_poster": "https://a0.muscache.com/im/pictures/f126f92b-8598-4f89-83ec-1c8f85ac27b4.jpg?aki_policy=xl_poster",
+          "xl_picture": "https://a0.muscache.com/im/pictures/f126f92b-8598-4f89-83ec-1c8f85ac27b4.jpg?aki_policy=x_large",
+          "provider": "host_provided_photo",
+          "sort_order": 1
+        }
+      },
+      {
+        "picture": {
+          "id": 670138209,
+          "dominant_saturated_color": "#E0B182",
+          "caption": "",
+          "picture": "https://a0.muscache.com/im/pictures/eea47ea9-d7d5-4a5e-9315-edbf92e3fdd0.jpg?aki_policy=large",
+          "original_picture": "https://a0.muscache.com/pictures/eea47ea9-d7d5-4a5e-9315-edbf92e3fdd0.jpg",
+          "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAMAAAAFCAIAAAAPE8H1AAAAO0lEQVQIHWP01lZRUlc01TNgnFfoYuQSdXbfKcYNk+v0DNVZGfgZd01tF5TikJBQZqxx1hRSUmRh4QAAU7sMGZYtlXkAAAAASUVORK5CYII=",
+          "scrim_color": "#37221D",
+          "poster": "https://a0.muscache.com/im/pictures/eea47ea9-d7d5-4a5e-9315-edbf92e3fdd0.jpg?aki_policy=poster",
+          "xl_poster": "https://a0.muscache.com/im/pictures/eea47ea9-d7d5-4a5e-9315-edbf92e3fdd0.jpg?aki_policy=xl_poster",
+          "xl_picture": "https://a0.muscache.com/im/pictures/eea47ea9-d7d5-4a5e-9315-edbf92e3fdd0.jpg?aki_policy=x_large",
+          "provider": "host_provided_photo",
+          "sort_order": 2
+        }
+      },
+      {
+        "picture": {
+          "id": 670138210,
+          "dominant_saturated_color": "#B55A0B",
+          "caption": "",
+          "picture": "https://a0.muscache.com/im/pictures/16de685a-a480-4b3a-b972-292ecb5ccdb6.jpg?aki_policy=large",
+          "original_picture": "https://a0.muscache.com/pictures/16de685a-a480-4b3a-b972-292ecb5ccdb6.jpg",
+          "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAMAAAAFCAIAAAAPE8H1AAAAPUlEQVQIHQEyAM3/AVgvCPD1ANfsAQGXQgG45QY8RDgBuHtP8PT0KjoiAbqDTgUDAebu6AHJoGoC++/n8wcGOhZDLhL/4QAAAABJRU5ErkJggg==",
+          "scrim_color": "#1F1108",
+          "poster": "https://a0.muscache.com/im/pictures/16de685a-a480-4b3a-b972-292ecb5ccdb6.jpg?aki_policy=poster",
+          "xl_poster": "https://a0.muscache.com/im/pictures/16de685a-a480-4b3a-b972-292ecb5ccdb6.jpg?aki_policy=xl_poster",
+          "xl_picture": "https://a0.muscache.com/im/pictures/16de685a-a480-4b3a-b972-292ecb5ccdb6.jpg?aki_policy=x_large",
+          "provider": "host_provided_photo",
+          "sort_order": 3
+        }
+      }
+    ],
+    "display_mode": "BROWSE",
+    "host": {
+      "first_name": "Joyce",
+      "has_profile_pic": false,
+      "id": 41821565,
+      "is_superhost": false
+    },
+    "spotlight_type": "DESCRIPTION",
+    "summaries": [
+      "2 hours",
+      "Food included"
+    ],
+    "kicker_text_color": "#767676",
+    "star_rating_color": "#008489",
+    "offered_languages_text": "All languages welcome",
+    "base_price_string": "1,939₽",
+    "is_new_pdp": false,
+    "price_string": "1,939₽ per person"
+  },
+  {
+    "action_kicker": "cooking class",
+    "base_price": 4847,
+    "currency": {
+      "currency": "RUB",
+      "currency_symbol_comes_after_currency": true
+    },
+    "country": "United States",
+    "display_text": "Cooking with a Gulf Coast Chef",
+    "id": 892231,
+    "is_social_good": false,
+    "kicker_text": "cooking class · Biloxi",
+    "lat": 30.39686330567082,
+    "lng": -88.88999974529254,
+    "picture": {
+      "id": 772371304,
+      "dominant_saturated_color": "#CF9D51",
+      "large_ro": "https://a0.muscache.com/im/pictures/9e306141-d561-4335-a284-4f01b4f375dc.jpg?aki_policy=large_ro",
+      "picture": "https://a0.muscache.com/im/pictures/9e306141-d561-4335-a284-4f01b4f375dc.jpg?aki_policy=large",
+      "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAMAAAAFCAIAAAAPE8H1AAAAO0lEQVQIHWNsywlQ0jUW5GNmLI0L+vrr55+/TIwd+WFcPCJiiuqMfY35esLvHn/mYNSzj5+Spfj+81cAsVwTFm5ukdsAAAAASUVORK5CYII=",
+      "saturated_a11y_dark_color": "#916727",
+      "scrim_color": "#1F1B1C",
+      "original_picture": "https://a0.muscache.com/pictures/9e306141-d561-4335-a284-4f01b4f375dc.jpg",
+      "xl_picture": "https://a0.muscache.com/im/pictures/9e306141-d561-4335-a284-4f01b4f375dc.jpg?aki_policy=x_large"
+    },
+    "poster_pictures": [
+      {
+        "id": 772371304,
+        "dominant_saturated_color": "#CF9D51",
+        "caption": "",
+        "picture": "https://a0.muscache.com/im/pictures/9e306141-d561-4335-a284-4f01b4f375dc.jpg?aki_policy=large",
+        "original_picture": "https://a0.muscache.com/pictures/9e306141-d561-4335-a284-4f01b4f375dc.jpg",
+        "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAMAAAAFCAIAAAAPE8H1AAAAO0lEQVQIHWNsywlQ0jUW5GNmLI0L+vrr55+/TIwd+WFcPCJiiuqMfY35esLvHn/mYNSzj5+Spfj+81cAsVwTFm5ukdsAAAAASUVORK5CYII=",
+        "scrim_color": "#1F1B1C",
+        "poster": "https://a0.muscache.com/im/pictures/9e306141-d561-4335-a284-4f01b4f375dc.jpg?aki_policy=poster",
+        "xl_poster": "https://a0.muscache.com/im/pictures/9e306141-d561-4335-a284-4f01b4f375dc.jpg?aki_policy=xl_poster",
+        "xl_picture": "https://a0.muscache.com/im/pictures/9e306141-d561-4335-a284-4f01b4f375dc.jpg?aki_policy=x_large",
+        "provider": "host_provided_photo",
+        "sort_order": 1
+      }
+    ],
+    "primary_category": 7,
+    "product_type": 1,
+    "review_count": 0,
+    "star_rating": 0,
+    "tier_id": 0,
+    "title": "Cooking with a Gulf Coast Chef",
+    "availabilities": [],
+    "primary_category_name": "Food & Drink",
+    "display_rating": 0,
+    "carousel_collection_multimedia": [
+      {
+        "picture": {
+          "id": 772371284,
+          "dominant_saturated_color": "#F4A318",
+          "caption": "",
+          "picture": "https://a0.muscache.com/im/pictures/489498cb-502f-4ba0-b8cb-49d1793d90d6.jpg?aki_policy=large",
+          "original_picture": "https://a0.muscache.com/pictures/489498cb-502f-4ba0-b8cb-49d1793d90d6.jpg",
+          "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAQAAAAFCAIAAADtz9qMAAAATElEQVQIHQFBAL7/AbiyoOHYxCEaARL2+gG/0su5upkbDONL/OUBy8Cq2NvLAf78MwDdAcSqnd/W1hMMBv77+wHPsJn+/PcLDwwBAf+yDyQGSu2wkAAAAABJRU5ErkJggg==",
+          "scrim_color": "#382709",
+          "poster": "https://a0.muscache.com/im/pictures/489498cb-502f-4ba0-b8cb-49d1793d90d6.jpg?aki_policy=poster",
+          "xl_poster": "https://a0.muscache.com/im/pictures/489498cb-502f-4ba0-b8cb-49d1793d90d6.jpg?aki_policy=xl_poster",
+          "xl_picture": "https://a0.muscache.com/im/pictures/489498cb-502f-4ba0-b8cb-49d1793d90d6.jpg?aki_policy=x_large",
+          "provider": "host_provided_photo",
+          "sort_order": 1
+        }
+      },
+      {
+        "picture": {
+          "id": 772371287,
+          "dominant_saturated_color": "#D06B12",
+          "caption": "",
+          "picture": "https://a0.muscache.com/im/pictures/146d5c9c-43af-4032-96d7-8b424bf3435c.jpg?aki_policy=large",
+          "original_picture": "https://a0.muscache.com/pictures/146d5c9c-43af-4032-96d7-8b424bf3435c.jpg",
+          "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAQAAAAFCAIAAADtz9qMAAAATElEQVQIHQFBAL7/AaqcedvS6OHa4PQTFgF0XEMMFCg3Q0Kwq6wBOCkkTEQ8Gh0exsbEAV0xFwMiOTkpCysjFAGqej4VGAwTFCMSEwFDyBQDJY3FvwAAAABJRU5ErkJggg==",
+          "scrim_color": "#1B191E",
+          "poster": "https://a0.muscache.com/im/pictures/146d5c9c-43af-4032-96d7-8b424bf3435c.jpg?aki_policy=poster",
+          "xl_poster": "https://a0.muscache.com/im/pictures/146d5c9c-43af-4032-96d7-8b424bf3435c.jpg?aki_policy=xl_poster",
+          "xl_picture": "https://a0.muscache.com/im/pictures/146d5c9c-43af-4032-96d7-8b424bf3435c.jpg?aki_policy=x_large",
+          "provider": "host_provided_photo",
+          "sort_order": 2
+        }
+      },
+      {
+        "picture": {
+          "id": 772371289,
+          "dominant_saturated_color": "#493323",
+          "caption": "",
+          "picture": "https://a0.muscache.com/im/pictures/3c3eb33a-6447-4b7d-a1d1-6bc75a724167.jpg?aki_policy=large",
+          "original_picture": "https://a0.muscache.com/pictures/3c3eb33a-6447-4b7d-a1d1-6bc75a724167.jpg",
+          "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAQAAAAFCAIAAADtz9qMAAAATElEQVQIHQFBAL7/AW9eUBcNBfoXLhcT7gGMjI4yNC3t7u/u7vQBvrSb3cy55+jsSl90AZWJeyEiGv36/d/j7QFpTzn19PL9/v/u9PsA3iT5XLlLJAAAAABJRU5ErkJggg==",
+          "scrim_color": "#17161B",
+          "poster": "https://a0.muscache.com/im/pictures/3c3eb33a-6447-4b7d-a1d1-6bc75a724167.jpg?aki_policy=poster",
+          "xl_poster": "https://a0.muscache.com/im/pictures/3c3eb33a-6447-4b7d-a1d1-6bc75a724167.jpg?aki_policy=xl_poster",
+          "xl_picture": "https://a0.muscache.com/im/pictures/3c3eb33a-6447-4b7d-a1d1-6bc75a724167.jpg?aki_policy=x_large",
+          "provider": "host_provided_photo",
+          "sort_order": 3
+        }
+      }
+    ],
+    "display_mode": "BROWSE",
+    "host": {
+      "first_name": "Danielle",
+      "has_profile_pic": false,
+      "id": 153678382,
+      "is_superhost": false
+    },
+    "spotlight_type": "DESCRIPTION",
+    "summaries": [
+      "3 hours",
+      "Food, Drinks included"
+    ],
+    "kicker_text_color": "#767676",
+    "star_rating_color": "#008489",
+    "base_price_string": "4,847₽",
+    "is_new_pdp": false,
+    "price_string": "4,847₽ per person"
+  },
+  {
+    "action_kicker": "guided hike",
+    "base_price": 1521,
+    "currency": {
+      "currency": "RUB",
+      "currency_symbol_comes_after_currency": true
+    },
+    "country": "Canada",
+    "display_text": "Hiking To A Cascade Waterfall",
+    "id": 690290,
+    "is_social_good": false,
+    "kicker_text": "guided hike · Owen Sound",
+    "lat": 44.55264845243319,
+    "lng": -80.93909821308371,
+    "picture": {
+      "id": 703427772,
+      "dominant_saturated_color": "#211729",
+      "large_ro": "https://a0.muscache.com/im/pictures/19b01798-f2a3-4b76-b35e-79605cabc01d.jpg?aki_policy=large_ro",
+      "picture": "https://a0.muscache.com/im/pictures/19b01798-f2a3-4b76-b35e-79605cabc01d.jpg?aki_policy=large",
+      "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//AWpscOzo7AMICQQFAurh2wF9h3Xn1+EOER3z9fUKBfwBX2ViBgD89PX+KRwO/P/3D9EXX5bgC54AAAAASUVORK5CYII=",
+      "saturated_a11y_dark_color": "#211729",
+      "scrim_color": "#201728",
+      "original_picture": "https://a0.muscache.com/pictures/19b01798-f2a3-4b76-b35e-79605cabc01d.jpg",
+      "xl_picture": "https://a0.muscache.com/im/pictures/19b01798-f2a3-4b76-b35e-79605cabc01d.jpg?aki_policy=x_large"
+    },
+    "poster_pictures": [
+      {
+        "id": 703427212,
+        "dominant_saturated_color": "#201929",
+        "caption": "",
+        "picture": "https://a0.muscache.com/im/pictures/7665dc67-d051-4d79-a038-8d9f310dd568.jpg?aki_policy=large",
+        "original_picture": "https://a0.muscache.com/pictures/7665dc67-d051-4d79-a038-8d9f310dd568.jpg",
+        "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAMAAAAFCAIAAAAPE8H1AAAAO0lEQVQIHWP09A3i4eP4+OcLY2REAjMHBxPDb8b4qHAefok3b98ylpRmP376RUGAkTElM4GPj1dcgBcAoqIP5pIaq3kAAAAASUVORK5CYII=",
+        "scrim_color": "#201929",
+        "poster": "https://a0.muscache.com/im/pictures/7665dc67-d051-4d79-a038-8d9f310dd568.jpg?aki_policy=poster",
+        "xl_poster": "https://a0.muscache.com/im/pictures/7665dc67-d051-4d79-a038-8d9f310dd568.jpg?aki_policy=xl_poster",
+        "xl_picture": "https://a0.muscache.com/im/pictures/7665dc67-d051-4d79-a038-8d9f310dd568.jpg?aki_policy=x_large",
+        "provider": "stock_photo",
+        "sort_order": 1
+      }
+    ],
+    "primary_category": 6,
+    "product_type": 1,
+    "review_count": 1,
+    "star_rating": 5,
+    "tier_id": 0,
+    "title": "Hiking To A Cascade Waterfall",
+    "availabilities": [],
+    "primary_category_name": "Nature",
+    "display_rating": 5,
+    "carousel_collection_multimedia": [
+      {
+        "picture": {
+          "id": 703427608,
+          "dominant_saturated_color": "#7096D0",
+          "caption": "",
+          "picture": "https://a0.muscache.com/im/pictures/a24750f5-4f1b-48c2-82f7-d1c47a0ae01f.jpg?aki_policy=large",
+          "original_picture": "https://a0.muscache.com/pictures/a24750f5-4f1b-48c2-82f7-d1c47a0ae01f.jpg",
+          "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAQAAAAFCAIAAADtz9qMAAAATElEQVQIHQFBAL7/Ab/N4xcQBNnl+sTX7wGIjYnn5uLq6un2+P0BQkQ3BQYHEBEX//8FAVFSSvr8AwQNHuvo3QE3PTr29fUAAwz7+e92ASEmIqfGpAAAAABJRU5ErkJggg==",
+          "scrim_color": "#202521",
+          "poster": "https://a0.muscache.com/im/pictures/a24750f5-4f1b-48c2-82f7-d1c47a0ae01f.jpg?aki_policy=poster",
+          "xl_poster": "https://a0.muscache.com/im/pictures/a24750f5-4f1b-48c2-82f7-d1c47a0ae01f.jpg?aki_policy=xl_poster",
+          "xl_picture": "https://a0.muscache.com/im/pictures/a24750f5-4f1b-48c2-82f7-d1c47a0ae01f.jpg?aki_policy=x_large",
+          "provider": "host_provided_photo",
+          "sort_order": 1
+        }
+      },
+      {
+        "picture": {
+          "id": 703427611,
+          "dominant_saturated_color": "#C76D6D",
+          "caption": "Four-legged friends welcome on leash",
+          "picture": "https://a0.muscache.com/im/pictures/574fee03-c6a0-4dcd-897d-4bf6a5a70b8e.jpg?aki_policy=large",
+          "original_picture": "https://a0.muscache.com/pictures/574fee03-c6a0-4dcd-897d-4bf6a5a70b8e.jpg",
+          "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAQAAAAFCAIAAADtz9qMAAAATElEQVQIHQFBAL7/AXuId0pGTNPZ0AYGBwG5u7IWFBayn5nr/vcBy8S7+/v7r5qaEywlAb+3ruTZ17q+uw8eGgG8sqjhztbZ8er5C/41BCQgrzG7lQAAAABJRU5ErkJggg==",
+          "scrim_color": "#392F26",
+          "poster": "https://a0.muscache.com/im/pictures/574fee03-c6a0-4dcd-897d-4bf6a5a70b8e.jpg?aki_policy=poster",
+          "xl_poster": "https://a0.muscache.com/im/pictures/574fee03-c6a0-4dcd-897d-4bf6a5a70b8e.jpg?aki_policy=xl_poster",
+          "xl_picture": "https://a0.muscache.com/im/pictures/574fee03-c6a0-4dcd-897d-4bf6a5a70b8e.jpg?aki_policy=x_large",
+          "sort_order": 2
+        }
+      },
+      {
+        "picture": {
+          "id": 703427613,
+          "dominant_saturated_color": "#AA6C6C",
+          "caption": "After a dip in the Sydenham River",
+          "picture": "https://a0.muscache.com/im/pictures/302728fa-d504-4c9e-803d-e364863d83af.jpg?aki_policy=large",
+          "original_picture": "https://a0.muscache.com/pictures/302728fa-d504-4c9e-803d-e364863d83af.jpg",
+          "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAQAAAAFCAIAAADtz9qMAAAATElEQVQIHQFBAL7/AVJnTysxJRUQJ9/hyQE1QTU3KiXi+Pbo4OgBWFhD/O8CKTgx3d7WAa+roK6hqRAPDBooIAGxqaLv6u3t6uguNjR6AB2wTeFY2AAAAABJRU5ErkJggg==",
+          "scrim_color": "#201F1B",
+          "poster": "https://a0.muscache.com/im/pictures/302728fa-d504-4c9e-803d-e364863d83af.jpg?aki_policy=poster",
+          "xl_poster": "https://a0.muscache.com/im/pictures/302728fa-d504-4c9e-803d-e364863d83af.jpg?aki_policy=xl_poster",
+          "xl_picture": "https://a0.muscache.com/im/pictures/302728fa-d504-4c9e-803d-e364863d83af.jpg?aki_policy=x_large",
+          "sort_order": 3
+        }
+      }
+    ],
+    "display_mode": "BROWSE",
+    "host": {
+      "first_name": "Hailey",
+      "has_profile_pic": false,
+      "id": 20432667,
+      "is_superhost": false
+    },
+    "spotlight_type": "DESCRIPTION",
+    "summaries": [
+      "2 hours",
+      "Drinks, Equipment, 1 ticket included"
+    ],
+    "kicker_text_color": "#767676",
+    "star_rating_color": "#008489",
+    "base_price_string": "1,521₽",
+    "is_new_pdp": false,
+    "price_string": "1,521₽ per person"
+  },
+  {
+    "action_kicker": "food tasting",
+    "base_price": 4048,
+    "currency": {
+      "currency": "RUB",
+      "currency_symbol_comes_after_currency": true
+    },
+    "country": "Ireland",
+    "display_text": "The Clonakilty Walking Food Tour",
+    "id": 214091,
+    "is_social_good": false,
+    "kicker_text": "food tasting · Clonakilty",
+    "lat": 51.62255257600678,
+    "lng": -8.88684995553448,
+    "picture": {
+      "id": 470935390,
+      "dominant_saturated_color": "#791D0B",
+      "large_ro": "https://a0.muscache.com/im/pictures/64f7ec88-98d5-4d7e-8cd0-665fb723a931.jpg?aki_policy=large_ro",
+      "picture": "https://a0.muscache.com/im/pictures/64f7ec88-98d5-4d7e-8cd0-665fb723a931.jpg?aki_policy=large",
+      "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//AZaLfeL+/PgB/hX76wYIBwEpHh07Qz7o6PAoLy7jtqgBhV4+BwcFAwAC2t/q9wAGFikUBHAnk+8AAAAASUVORK5CYII=",
+      "saturated_a11y_dark_color": "#791D0B",
+      "scrim_color": "#0E0D0B",
+      "original_picture": "https://a0.muscache.com/pictures/64f7ec88-98d5-4d7e-8cd0-665fb723a931.jpg",
+      "xl_picture": "https://a0.muscache.com/im/pictures/64f7ec88-98d5-4d7e-8cd0-665fb723a931.jpg?aki_policy=x_large"
+    },
+    "poster_pictures": [
+      {
+        "id": 470935379,
+        "dominant_saturated_color": "#BE6224",
+        "caption": "",
+        "picture": "https://a0.muscache.com/im/pictures/7bd49b23-02fa-41a8-bb53-47c850d12444.jpg?aki_policy=large",
+        "original_picture": "https://a0.muscache.com/pictures/7bd49b23-02fa-41a8-bb53-47c850d12444.jpg",
+        "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAMAAAAFCAIAAAAPE8H1AAAAO0lEQVQIHWPcumPVh3sXWOUVGAuCvU7/YfvP9JdRgJvPO9hHXFyCMcBYWkHfjPPvT8b2ZDch7j8Mf9gA6X0RnWRMZuAAAAAASUVORK5CYII=",
+        "scrim_color": "#0A0B0D",
+        "poster": "https://a0.muscache.com/im/pictures/7bd49b23-02fa-41a8-bb53-47c850d12444.jpg?aki_policy=poster",
+        "xl_poster": "https://a0.muscache.com/im/pictures/7bd49b23-02fa-41a8-bb53-47c850d12444.jpg?aki_policy=xl_poster",
+        "xl_picture": "https://a0.muscache.com/im/pictures/7bd49b23-02fa-41a8-bb53-47c850d12444.jpg?aki_policy=x_large",
+        "provider": "host_provided_photo",
+        "sort_order": 1
+      }
+    ],
+    "primary_category": 7,
+    "product_type": 1,
+    "review_count": 4,
+    "star_rating": 5,
+    "tier_id": 0,
+    "title": "The Clonakilty Walking Food Tour",
+    "availabilities": [],
+    "primary_category_name": "Food & Drink",
+    "display_rating": 5,
+    "carousel_collection_multimedia": [
+      {
+        "picture": {
+          "id": 669197876,
+          "dominant_saturated_color": "#E20902",
+          "caption": "",
+          "picture": "https://a0.muscache.com/im/pictures/0afebb04-ca4d-46d7-b513-659d20c3e10a.jpg?aki_policy=large",
+          "original_picture": "https://a0.muscache.com/pictures/0afebb04-ca4d-46d7-b513-659d20c3e10a.jpg",
+          "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAMAAAAFCAIAAAAPE8H1AAAAPUlEQVQIHQEyAM3/AfMtCvgTC9UJGAHffj6nvNfQ6P0Bp0Qk2/Xx1+0DAWAWDdv//xMWDwFICArZA/8LEBNEghVUwc1rkwAAAABJRU5ErkJggg==",
+          "scrim_color": "#100806",
+          "poster": "https://a0.muscache.com/im/pictures/0afebb04-ca4d-46d7-b513-659d20c3e10a.jpg?aki_policy=poster",
+          "xl_poster": "https://a0.muscache.com/im/pictures/0afebb04-ca4d-46d7-b513-659d20c3e10a.jpg?aki_policy=xl_poster",
+          "xl_picture": "https://a0.muscache.com/im/pictures/0afebb04-ca4d-46d7-b513-659d20c3e10a.jpg?aki_policy=x_large",
+          "provider": "host_provided_photo",
+          "sort_order": 1
+        }
+      },
+      {
+        "picture": {
+          "id": 669197877,
+          "dominant_saturated_color": "#3A3F8E",
+          "caption": "",
+          "picture": "https://a0.muscache.com/im/pictures/5e6049aa-4e24-4c8b-bd36-72549c0969e4.jpg?aki_policy=large",
+          "original_picture": "https://a0.muscache.com/pictures/5e6049aa-4e24-4c8b-bd36-72549c0969e4.jpg",
+          "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAMAAAAFCAIAAAAPE8H1AAAAPUlEQVQIHQEyAM3/AXZ1az88MOjq8QFZVUkFAwAJDRIBcm9qDgkB9/XvAV5fcxv80vYVHwGvr6/29vIMDAzCchOBy+NKjQAAAABJRU5ErkJggg==",
+          "scrim_color": "#221F1A",
+          "poster": "https://a0.muscache.com/im/pictures/5e6049aa-4e24-4c8b-bd36-72549c0969e4.jpg?aki_policy=poster",
+          "xl_poster": "https://a0.muscache.com/im/pictures/5e6049aa-4e24-4c8b-bd36-72549c0969e4.jpg?aki_policy=xl_poster",
+          "xl_picture": "https://a0.muscache.com/im/pictures/5e6049aa-4e24-4c8b-bd36-72549c0969e4.jpg?aki_policy=x_large",
+          "sort_order": 2
+        }
+      },
+      {
+        "picture": {
+          "id": 669197878,
+          "dominant_saturated_color": "#E9AF6D",
+          "caption": "",
+          "picture": "https://a0.muscache.com/im/pictures/e381b417-b92e-46c3-96d0-f3b038f70dfd.jpg?aki_policy=large",
+          "original_picture": "https://a0.muscache.com/pictures/e381b417-b92e-46c3-96d0-f3b038f70dfd.jpg",
+          "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAMAAAAFCAIAAAAPE8H1AAAAPUlEQVQIHQEyAM3/AcW0pc/DwiMmFAGTbkrz+AYCBvwBuqSJw7Co9gEGAcWhewzmyrHc/gGibkYdFQ6lxeRfyxggxHEWjgAAAABJRU5ErkJggg==",
+          "scrim_color": "#1F180E",
+          "poster": "https://a0.muscache.com/im/pictures/e381b417-b92e-46c3-96d0-f3b038f70dfd.jpg?aki_policy=poster",
+          "xl_poster": "https://a0.muscache.com/im/pictures/e381b417-b92e-46c3-96d0-f3b038f70dfd.jpg?aki_policy=xl_poster",
+          "xl_picture": "https://a0.muscache.com/im/pictures/e381b417-b92e-46c3-96d0-f3b038f70dfd.jpg?aki_policy=x_large",
+          "sort_order": 3
+        }
+      }
+    ],
+    "display_mode": "BROWSE",
+    "host": {
+      "first_name": "Kate",
+      "has_profile_pic": false,
+      "id": 42677246,
+      "is_superhost": false
+    },
+    "spotlight_type": "DESCRIPTION",
+    "summaries": [
+      "4 hours",
+      "Food included"
+    ],
+    "kicker_text_color": "#767676",
+    "star_rating_color": "#008489",
+    "base_price_string": "4,048₽",
+    "is_new_pdp": false,
+    "price_string": "4,048₽ per person"
+  },
+  {
+    "action_kicker": "art walk",
+    "base_price": 15475,
+    "currency": {
+      "currency": "RUB",
+      "currency_symbol_comes_after_currency": true
+    },
+    "country": "Czech Republic",
+    "display_text": "Prague modern art",
+    "id": 934069,
+    "is_social_good": false,
+    "kicker_text": "art walk · Moravská Ostrava a Přívoz",
+    "lat": 49.83500141804138,
+    "lng": 18.29115930486591,
+    "picture": {
+      "id": 784547886,
+      "dominant_saturated_color": "#D4AF78",
+      "large_ro": "https://a0.muscache.com/im/pictures/21f7aad5-ac48-4e65-8305-90d156f00c06.jpg?aki_policy=large_ro",
+      "picture": "https://a0.muscache.com/im/pictures/21f7aad5-ac48-4e65-8305-90d156f00c06.jpg?aki_policy=large",
+      "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//Ab+kegD//PYADQUB/QoF/QHBpX/e5vcbFgkMDQv///4BhIWIAQEAAgIBAgEA/f79+FcTe8CV4pkAAAAASUVORK5CYII=",
+      "saturated_a11y_dark_color": "#85612B",
+      "scrim_color": "#3B3833",
+      "original_picture": "https://a0.muscache.com/pictures/21f7aad5-ac48-4e65-8305-90d156f00c06.jpg",
+      "xl_picture": "https://a0.muscache.com/im/pictures/21f7aad5-ac48-4e65-8305-90d156f00c06.jpg?aki_policy=x_large"
+    },
+    "poster_pictures": [
+      {
+        "id": 784547697,
+        "dominant_saturated_color": "#D5B17B",
+        "caption": "",
+        "picture": "https://a0.muscache.com/im/pictures/f97bf867-3a5d-461b-9314-594f55fcda4c.jpg?aki_policy=large",
+        "original_picture": "https://a0.muscache.com/pictures/f97bf867-3a5d-461b-9314-594f55fcda4c.jpg",
+        "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAMAAAAFCAIAAAAPE8H1AAAAPUlEQVQIHQEyAM3/AbylgAf+8voCDAGpn4waCPPm9AYBzq2AydbxMSMIAY6Nivj5+QgHBQGChIkAAP8BAABg/BXImXfSKQAAAABJRU5ErkJggg==",
+        "scrim_color": "#2C2C34",
+        "poster": "https://a0.muscache.com/im/pictures/f97bf867-3a5d-461b-9314-594f55fcda4c.jpg?aki_policy=poster",
+        "xl_poster": "https://a0.muscache.com/im/pictures/f97bf867-3a5d-461b-9314-594f55fcda4c.jpg?aki_policy=xl_poster",
+        "xl_picture": "https://a0.muscache.com/im/pictures/f97bf867-3a5d-461b-9314-594f55fcda4c.jpg?aki_policy=x_large",
+        "provider": "stock_photo",
+        "sort_order": 1
+      }
+    ],
+    "primary_category": 2,
+    "product_type": 1,
+    "review_count": 0,
+    "star_rating": 0,
+    "tier_id": 0,
+    "title": "Prague modern art",
+    "availabilities": [],
+    "primary_category_name": "Fashion",
+    "display_rating": 0,
+    "display_mode": "BROWSE",
+    "host": {
+      "first_name": "Галина",
+      "has_profile_pic": false,
+      "id": 265584451,
+      "is_superhost": false
+    },
+    "spotlight_type": "DESCRIPTION",
+    "summaries": [
+      "3 hours",
+      "Drinks included"
+    ],
+    "kicker_text_color": "#767676",
+    "star_rating_color": "#008489",
+    "base_price_string": "15,475₽",
+    "is_new_pdp": false,
+    "price_string": "15,475₽ per person"
+  },
+  {
+    "action_kicker": "workshop",
+    "base_price": 3232,
+    "currency": {
+      "currency": "RUB",
+      "currency_symbol_comes_after_currency": true
+    },
+    "country": "United States",
+    "display_text": "Did someone say Chocolate?",
+    "id": 546000,
+    "is_social_good": false,
+    "kicker_text": "workshop · Worcester",
+    "lat": 42.25310824353215,
+    "lng": -71.79075608853228,
+    "picture": {
+      "id": 681377636,
+      "dominant_saturated_color": "#622C0C",
+      "large_ro": "https://a0.muscache.com/im/pictures/f3a65c4b-7253-4071-a960-5f7de5d9b2bb.jpg?aki_policy=large_ro",
+      "picture": "https://a0.muscache.com/im/pictures/f3a65c4b-7253-4071-a960-5f7de5d9b2bb.jpg?aki_policy=large",
+      "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//AYCpu/EEBB/i0Ukd+3uWxQHY0cYFCw0FCw20opqus7wBwrmtHSMj1dPTwqmf+dfIHl8YSKInhQoAAAAASUVORK5CYII=",
+      "saturated_a11y_dark_color": "#622C0C",
+      "scrim_color": "#0E0F21",
+      "original_picture": "https://a0.muscache.com/pictures/f3a65c4b-7253-4071-a960-5f7de5d9b2bb.jpg",
+      "xl_picture": "https://a0.muscache.com/im/pictures/f3a65c4b-7253-4071-a960-5f7de5d9b2bb.jpg?aki_policy=x_large"
+    },
+    "poster_pictures": [
+      {
+        "id": 681377187,
+        "dominant_saturated_color": "#6E3210",
+        "caption": "",
+        "picture": "https://a0.muscache.com/im/pictures/39f3c749-f2da-4917-8a6b-09d346a0356c.jpg?aki_policy=large",
+        "original_picture": "https://a0.muscache.com/pictures/39f3c749-f2da-4917-8a6b-09d346a0356c.jpg",
+        "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAMAAAAFCAIAAAAPE8H1AAAAPUlEQVQIHQEyAM3/ARkqakA3/kgkCgGJtsYa69bhyMkB08zA8/r9n4F1AcK+s+vo5cyPdgGDiYHFyMgxHBR+QxrNwRhQSAAAAABJRU5ErkJggg==",
+        "scrim_color": "#0E1124",
+        "poster": "https://a0.muscache.com/im/pictures/39f3c749-f2da-4917-8a6b-09d346a0356c.jpg?aki_policy=poster",
+        "xl_poster": "https://a0.muscache.com/im/pictures/39f3c749-f2da-4917-8a6b-09d346a0356c.jpg?aki_policy=xl_poster",
+        "xl_picture": "https://a0.muscache.com/im/pictures/39f3c749-f2da-4917-8a6b-09d346a0356c.jpg?aki_policy=x_large",
+        "provider": "stock_photo",
+        "sort_order": 1
+      }
+    ],
+    "primary_category": 7,
+    "product_type": 1,
+    "review_count": 0,
+    "star_rating": 0,
+    "tier_id": 0,
+    "title": "Did someone say Chocolate?",
+    "availabilities": [],
+    "primary_category_name": "Food & Drink",
+    "display_rating": 0,
+    "display_mode": "BROWSE",
+    "host": {
+      "first_name": "Gina",
+      "has_profile_pic": false,
+      "id": 173417434,
+      "is_superhost": false
+    },
+    "spotlight_type": "DESCRIPTION",
+    "summaries": [
+      "2 hours",
+      "Drinks, Equipment included"
+    ],
+    "kicker_text_color": "#767676",
+    "star_rating_color": "#008489",
+    "base_price_string": "3,232₽",
+    "is_new_pdp": false,
+    "price_string": "3,232₽ per person"
+  },
+  {
+    "action_kicker": "cooking class",
+    "base_price": 2208,
+    "currency": {
+      "currency": "RUB",
+      "currency_symbol_comes_after_currency": true
+    },
+    "country": "Nederland",
+    "display_text": "Workshop plant-based colored chocolates",
+    "id": 901096,
+    "is_social_good": false,
+    "kicker_text": "cooking class · Joure",
+    "lat": 52.972416443365766,
+    "lng": 5.793428425690274,
+    "picture": {
+      "id": 783347414,
+      "dominant_saturated_color": "#19101C",
+      "large_ro": "https://a0.muscache.com/im/pictures/a7e51822-e793-44ee-9d2f-53c41afc7dbe.jpg?aki_policy=large_ro",
+      "picture": "https://a0.muscache.com/im/pictures/a7e51822-e793-44ee-9d2f-53c41afc7dbe.jpg?aki_policy=large",
+      "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAAECAIAAADJUWIXAAAAS0lEQVQIHQFAAL//AdTKuMjP3ebr8hUUFTMtIQGsn5qxtssFEA3n4dpmZ2EBvLSmsKrI5vftDwEQV1xBAca5qLq3wQIFBvv7/D1CQT2zIIgl+q9LAAAAAElFTkSuQmCC",
+      "saturated_a11y_dark_color": "#19101C",
+      "scrim_color": "#18101B",
+      "original_picture": "https://a0.muscache.com/pictures/a7e51822-e793-44ee-9d2f-53c41afc7dbe.jpg",
+      "xl_picture": "https://a0.muscache.com/im/pictures/a7e51822-e793-44ee-9d2f-53c41afc7dbe.jpg?aki_policy=x_large"
+    },
+    "poster_pictures": [
+      {
+        "id": 783347414,
+        "dominant_saturated_color": "#19101C",
+        "caption": "",
+        "picture": "https://a0.muscache.com/im/pictures/a7e51822-e793-44ee-9d2f-53c41afc7dbe.jpg?aki_policy=large",
+        "original_picture": "https://a0.muscache.com/pictures/a7e51822-e793-44ee-9d2f-53c41afc7dbe.jpg",
+        "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAAECAIAAADJUWIXAAAAS0lEQVQIHQFAAL//AdTKuMjP3ebr8hUUFTMtIQGsn5qxtssFEA3n4dpmZ2EBvLSmsKrI5vftDwEQV1xBAca5qLq3wQIFBvv7/D1CQT2zIIgl+q9LAAAAAElFTkSuQmCC",
+        "scrim_color": "#18101B",
+        "poster": "https://a0.muscache.com/im/pictures/a7e51822-e793-44ee-9d2f-53c41afc7dbe.jpg?aki_policy=poster",
+        "xl_poster": "https://a0.muscache.com/im/pictures/a7e51822-e793-44ee-9d2f-53c41afc7dbe.jpg?aki_policy=xl_poster",
+        "xl_picture": "https://a0.muscache.com/im/pictures/a7e51822-e793-44ee-9d2f-53c41afc7dbe.jpg?aki_policy=x_large",
+        "sort_order": 1
+      }
+    ],
+    "primary_category": 7,
+    "product_type": 1,
+    "review_count": 0,
+    "star_rating": 0,
+    "tier_id": 0,
+    "title": "Workshop plant-based colored chocolates",
+    "availabilities": [],
+    "primary_category_name": "Food & Drink",
+    "display_rating": 0,
+    "carousel_collection_multimedia": [
+      {
+        "picture": {
+          "id": 774432329,
+          "dominant_saturated_color": "#0A111A",
+          "caption": "",
+          "picture": "https://a0.muscache.com/im/pictures/c64722ed-540d-4be9-8978-62e93a648aeb.jpg?aki_policy=large",
+          "original_picture": "https://a0.muscache.com/pictures/c64722ed-540d-4be9-8978-62e93a648aeb.jpg",
+          "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAAECAIAAADJUWIXAAAAS0lEQVQIHQFAAL//Abq6uePh2/P26+v0+Ec8SQGboZjPycP5/wv9+O3+BBIBeH916+Xe5ur5My8mQDk9AZSPgh0XFdHc4BgZETEoMRlzItgv7GlcAAAAAElFTkSuQmCC",
+          "scrim_color": "#0A1119",
+          "poster": "https://a0.muscache.com/im/pictures/c64722ed-540d-4be9-8978-62e93a648aeb.jpg?aki_policy=poster",
+          "xl_poster": "https://a0.muscache.com/im/pictures/c64722ed-540d-4be9-8978-62e93a648aeb.jpg?aki_policy=xl_poster",
+          "xl_picture": "https://a0.muscache.com/im/pictures/c64722ed-540d-4be9-8978-62e93a648aeb.jpg?aki_policy=x_large",
+          "provider": "host_provided_photo",
+          "sort_order": 2
+        }
+      },
+      {
+        "picture": {
+          "id": 774432334,
+          "dominant_saturated_color": "#2A1223",
+          "caption": "",
+          "picture": "https://a0.muscache.com/im/pictures/14c26636-d2ea-48f9-9908-71602795f39b.jpg?aki_policy=large",
+          "original_picture": "https://a0.muscache.com/pictures/14c26636-d2ea-48f9-9908-71602795f39b.jpg",
+          "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAAECAIAAADJUWIXAAAAS0lEQVQIHQFAAL//AbixrM3U1hIPCAECCTMzMgGUkYfY0NUSFgTw8QtKTD8BsK2bsa/LGBQG5+vyRkQ9AcO6qcjL3/P7+AX/CEdBKnk9HZDyYgMqAAAAAElFTkSuQmCC",
+          "scrim_color": "#291222",
+          "poster": "https://a0.muscache.com/im/pictures/14c26636-d2ea-48f9-9908-71602795f39b.jpg?aki_policy=poster",
+          "xl_poster": "https://a0.muscache.com/im/pictures/14c26636-d2ea-48f9-9908-71602795f39b.jpg?aki_policy=xl_poster",
+          "xl_picture": "https://a0.muscache.com/im/pictures/14c26636-d2ea-48f9-9908-71602795f39b.jpg?aki_policy=x_large",
+          "provider": "host_provided_photo",
+          "sort_order": 3
+        }
+      },
+      {
+        "picture": {
+          "id": 774432342,
+          "dominant_saturated_color": "#BB964D",
+          "caption": "",
+          "picture": "https://a0.muscache.com/im/pictures/9d03fcda-76b2-4773-94a1-6229a68de7c9.jpg?aki_policy=large",
+          "original_picture": "https://a0.muscache.com/pictures/9d03fcda-76b2-4773-94a1-6229a68de7c9.jpg",
+          "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAAECAIAAADJUWIXAAAAS0lEQVQIHQFAAL//AbKnju3s9eDZ3BYkJiQkJwGSgXHk5uz6+fLw9fw+QkUBmohg7u0B5ujs8PL3Uk5LAauUdeHg6g8PEvoA+i84SLnCI/FuBlW+AAAAAElFTkSuQmCC",
+          "scrim_color": "#20110E",
+          "poster": "https://a0.muscache.com/im/pictures/9d03fcda-76b2-4773-94a1-6229a68de7c9.jpg?aki_policy=poster",
+          "xl_poster": "https://a0.muscache.com/im/pictures/9d03fcda-76b2-4773-94a1-6229a68de7c9.jpg?aki_policy=xl_poster",
+          "xl_picture": "https://a0.muscache.com/im/pictures/9d03fcda-76b2-4773-94a1-6229a68de7c9.jpg?aki_policy=x_large",
+          "provider": "host_provided_photo",
+          "sort_order": 4
+        }
+      }
+    ],
+    "display_mode": "BROWSE",
+    "host": {
+      "first_name": "Anita",
+      "has_profile_pic": false,
+      "id": 266277733,
+      "is_superhost": false
+    },
+    "spotlight_type": "DESCRIPTION",
+    "summaries": [
+      "3 hours",
+      "Drinks included"
+    ],
+    "kicker_text_color": "#767676",
+    "star_rating_color": "#008489",
+    "offered_languages_text": "Also offered in Dutch, German",
+    "base_price_string": "2,208₽",
+    "is_new_pdp": false,
+    "price_string": "2,208₽ per person"
+  },
+  {
+    "action_kicker": "cooking class",
+    "base_price": 2947,
+    "currency": {
+      "currency": "RUB",
+      "currency_symbol_comes_after_currency": true
+    },
+    "country": "Romania",
+    "display_text": "Romanian cooking class in a local home",
+    "id": 746224,
+    "is_social_good": false,
+    "kicker_text": "cooking class · Timișoara",
+    "lat": 45.74868495082042,
+    "lng": 21.215859206364645,
+    "picture": {
+      "id": 721757731,
+      "dominant_saturated_color": "#D7A975",
+      "large_ro": "https://a0.muscache.com/im/pictures/76906aef-6a8f-4533-8090-bff3792e77db.jpg?aki_policy=large_ro",
+      "picture": "https://a0.muscache.com/im/pictures/76906aef-6a8f-4533-8090-bff3792e77db.jpg?aki_policy=large",
+      "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAMAAAAFCAIAAAAPE8H1AAAAPUlEQVQIHQEyAM3/AY6GewkF//b28AGdj33p5OT+/fsBnoxiA/cM9uvXAYFQNQEyJ/jT2wFbdTgi/iXFzdy6rhrZHwEzKQAAAABJRU5ErkJggg==",
+      "saturated_a11y_dark_color": "#9D692D",
+      "scrim_color": "#181510",
+      "original_picture": "https://a0.muscache.com/pictures/76906aef-6a8f-4533-8090-bff3792e77db.jpg",
+      "xl_picture": "https://a0.muscache.com/im/pictures/76906aef-6a8f-4533-8090-bff3792e77db.jpg?aki_policy=x_large"
+    },
+    "poster_pictures": [
+      {
+        "id": 721757731,
+        "dominant_saturated_color": "#D7A975",
+        "caption": "",
+        "picture": "https://a0.muscache.com/im/pictures/76906aef-6a8f-4533-8090-bff3792e77db.jpg?aki_policy=large",
+        "original_picture": "https://a0.muscache.com/pictures/76906aef-6a8f-4533-8090-bff3792e77db.jpg",
+        "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAMAAAAFCAIAAAAPE8H1AAAAPUlEQVQIHQEyAM3/AY6GewkF//b28AGdj33p5OT+/fsBnoxiA/cM9uvXAYFQNQEyJ/jT2wFbdTgi/iXFzdy6rhrZHwEzKQAAAABJRU5ErkJggg==",
+        "scrim_color": "#181510",
+        "poster": "https://a0.muscache.com/im/pictures/76906aef-6a8f-4533-8090-bff3792e77db.jpg?aki_policy=poster",
+        "xl_poster": "https://a0.muscache.com/im/pictures/76906aef-6a8f-4533-8090-bff3792e77db.jpg?aki_policy=xl_poster",
+        "xl_picture": "https://a0.muscache.com/im/pictures/76906aef-6a8f-4533-8090-bff3792e77db.jpg?aki_policy=x_large",
+        "provider": "host_provided_photo",
+        "sort_order": 1
+      }
+    ],
+    "primary_category": 7,
+    "product_type": 1,
+    "review_count": 0,
+    "star_rating": 0,
+    "tier_id": 0,
+    "title": "Romanian cooking class in a local home",
+    "availabilities": [],
+    "primary_category_name": "Food & Drink",
+    "display_rating": 0,
+    "carousel_collection_multimedia": [
+      {
+        "picture": {
+          "id": 721757723,
+          "dominant_saturated_color": "#BA3E30",
+          "caption": "",
+          "picture": "https://a0.muscache.com/im/pictures/71aa9a00-cd1c-4ec6-8649-f3f2e74d7cbd.jpg?aki_policy=large",
+          "original_picture": "https://a0.muscache.com/pictures/71aa9a00-cd1c-4ec6-8649-f3f2e74d7cbd.jpg",
+          "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAQAAAAFCAIAAADtz9qMAAAATElEQVQIHQFBAL7/AYlsWP308+bl5lNYSgFSPS79+PgKBgNbWUgBWUcw7/L2DgoI9fP3AbygfPHr5P36A/gABQHZxq7v7OjYztMQ3eJUviQjfj0B9QAAAABJRU5ErkJggg==",
+          "scrim_color": "#20130B",
+          "poster": "https://a0.muscache.com/im/pictures/71aa9a00-cd1c-4ec6-8649-f3f2e74d7cbd.jpg?aki_policy=poster",
+          "xl_poster": "https://a0.muscache.com/im/pictures/71aa9a00-cd1c-4ec6-8649-f3f2e74d7cbd.jpg?aki_policy=xl_poster",
+          "xl_picture": "https://a0.muscache.com/im/pictures/71aa9a00-cd1c-4ec6-8649-f3f2e74d7cbd.jpg?aki_policy=x_large",
+          "provider": "host_provided_photo",
+          "sort_order": 1
+        }
+      },
+      {
+        "picture": {
+          "id": 721757728,
+          "dominant_saturated_color": "#587420",
+          "caption": "",
+          "picture": "https://a0.muscache.com/im/pictures/df9055e9-6f96-4d6b-8d72-61984fb82fa0.jpg?aki_policy=large",
+          "original_picture": "https://a0.muscache.com/pictures/df9055e9-6f96-4d6b-8d72-61984fb82fa0.jpg",
+          "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAQAAAAFCAIAAADtz9qMAAAATElEQVQIHQFBAL7/AZ1+bwft5fMJBhMiJgGVVDUF9vXV/vcRExgBVFcl+wcO/wUDFAf2AVt6JEoxai4jM3qbXQFHZhsfFCUYExra6cgQthaWRLWKzgAAAABJRU5ErkJggg==",
+          "scrim_color": "#191A14",
+          "poster": "https://a0.muscache.com/im/pictures/df9055e9-6f96-4d6b-8d72-61984fb82fa0.jpg?aki_policy=poster",
+          "xl_poster": "https://a0.muscache.com/im/pictures/df9055e9-6f96-4d6b-8d72-61984fb82fa0.jpg?aki_policy=xl_poster",
+          "xl_picture": "https://a0.muscache.com/im/pictures/df9055e9-6f96-4d6b-8d72-61984fb82fa0.jpg?aki_policy=x_large",
+          "provider": "host_provided_photo",
+          "sort_order": 2
+        }
+      },
+      {
+        "picture": {
+          "id": 721757736,
+          "dominant_saturated_color": "#E09358",
+          "caption": "",
+          "picture": "https://a0.muscache.com/im/pictures/e6378afe-5a5b-4734-a72b-49c2f5d7afb4.jpg?aki_policy=large",
+          "original_picture": "https://a0.muscache.com/pictures/e6378afe-5a5b-4734-a72b-49c2f5d7afb4.jpg",
+          "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAMAAAAFCAIAAAAPE8H1AAAAOklEQVQIHWMM9jWUkxXXEBRndHbQ4OZilWERY2zN9n/09jPbPy7GtnhHBSUBfnU/xlUFbqpyQsw6XgAUWAutjeQ04wAAAABJRU5ErkJggg==",
+          "scrim_color": "#15100A",
+          "poster": "https://a0.muscache.com/im/pictures/e6378afe-5a5b-4734-a72b-49c2f5d7afb4.jpg?aki_policy=poster",
+          "xl_poster": "https://a0.muscache.com/im/pictures/e6378afe-5a5b-4734-a72b-49c2f5d7afb4.jpg?aki_policy=xl_poster",
+          "xl_picture": "https://a0.muscache.com/im/pictures/e6378afe-5a5b-4734-a72b-49c2f5d7afb4.jpg?aki_policy=x_large",
+          "provider": "host_provided_photo",
+          "sort_order": 3
+        }
+      }
+    ],
+    "display_mode": "BROWSE",
+    "host": {
+      "first_name": "Mihaela",
+      "has_profile_pic": false,
+      "id": 250971,
+      "is_superhost": false
+    },
+    "spotlight_type": "DESCRIPTION",
+    "summaries": [
+      "3 hours",
+      "Food, Drinks, Equipment included"
+    ],
+    "kicker_text_color": "#767676",
+    "star_rating_color": "#008489",
+    "base_price_string": "2,947₽",
+    "is_new_pdp": false,
+    "price_string": "2,947₽ per person"
+  },
+  {
+    "action_kicker": "dinner party",
+    "base_price": 2788,
+    "currency": {
+      "currency": "RUB",
+      "currency_symbol_comes_after_currency": true
+    },
+    "country": "Turkey",
+    "display_text": "French-Asian gastronomy and music in Bozcaada",
+    "id": 684706,
+    "is_social_good": false,
+    "kicker_text": "dinner party · Bozcaada",
+    "lat": 39.83381453258186,
+    "lng": 26.071352963487726,
+    "picture": {
+      "id": 698907407,
+      "dominant_saturated_color": "#96462E",
+      "large_ro": "https://a0.muscache.com/im/pictures/f199503a-c6da-4681-bd0d-04cc4b2f21ae.jpg?aki_policy=large_ro",
+      "picture": "https://a0.muscache.com/im/pictures/f199503a-c6da-4681-bd0d-04cc4b2f21ae.jpg?aki_policy=large",
+      "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//AdPGx/XWyOfbz+L06R8yQAGrXF3cGAoG5tbo/f8YMDcBnIpqKykn497g9QIMGxMIp5wYRE3e2GwAAAAASUVORK5CYII=",
+      "saturated_a11y_dark_color": "#96462E",
+      "scrim_color": "#5A3721",
+      "original_picture": "https://a0.muscache.com/pictures/f199503a-c6da-4681-bd0d-04cc4b2f21ae.jpg",
+      "xl_picture": "https://a0.muscache.com/im/pictures/f199503a-c6da-4681-bd0d-04cc4b2f21ae.jpg?aki_policy=x_large"
+    },
+    "poster_pictures": [
+      {
+        "id": 698907179,
+        "dominant_saturated_color": "#A34739",
+        "caption": "",
+        "picture": "https://a0.muscache.com/im/pictures/b52cd831-3a90-4b96-a5fe-08a9d1361e78.jpg?aki_policy=large",
+        "original_picture": "https://a0.muscache.com/pictures/b52cd831-3a90-4b96-a5fe-08a9d1361e78.jpg",
+        "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAMAAAAFCAIAAAAPE8H1AAAAPUlEQVQIHQEyAM3/AbOpohjy4uEBBAGmdXPq6tH3FhwBrZh3AgADAgcJAb+mghkgK+rn3gGjdm/oAfUoIxosrRTKsOz9rwAAAABJRU5ErkJggg==",
+        "scrim_color": "#4A281C",
+        "poster": "https://a0.muscache.com/im/pictures/b52cd831-3a90-4b96-a5fe-08a9d1361e78.jpg?aki_policy=poster",
+        "xl_poster": "https://a0.muscache.com/im/pictures/b52cd831-3a90-4b96-a5fe-08a9d1361e78.jpg?aki_policy=xl_poster",
+        "xl_picture": "https://a0.muscache.com/im/pictures/b52cd831-3a90-4b96-a5fe-08a9d1361e78.jpg?aki_policy=x_large",
+        "provider": "stock_photo",
+        "sort_order": 1
+      }
+    ],
+    "primary_category": 7,
+    "product_type": 1,
+    "review_count": 0,
+    "star_rating": 0,
+    "tier_id": 0,
+    "title": "French-Asian gastronomy and music in Bozcaada",
+    "availabilities": [],
+    "primary_category_name": "Food & Drink",
+    "display_rating": 0,
+    "carousel_collection_multimedia": [
+      {
+        "picture": {
+          "id": 698907504,
+          "dominant_saturated_color": "#5B6F0D",
+          "caption": "",
+          "picture": "https://a0.muscache.com/im/pictures/a4fa5724-c654-496c-9936-21b38a4aadeb.jpg?aki_policy=large",
+          "original_picture": "https://a0.muscache.com/pictures/a4fa5724-c654-496c-9936-21b38a4aadeb.jpg",
+          "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAMAAAAFCAIAAAAPE8H1AAAAOklEQVQIHWNsr4hgEnqhIGbFOLs7h4WBVVhUijHUzVKYm11HUZwxM95YnFNaSoiHMc5PSUfZWEhQAgAJjAj8TDpz9AAAAABJRU5ErkJggg==",
+          "scrim_color": "#221006",
+          "poster": "https://a0.muscache.com/im/pictures/a4fa5724-c654-496c-9936-21b38a4aadeb.jpg?aki_policy=poster",
+          "xl_poster": "https://a0.muscache.com/im/pictures/a4fa5724-c654-496c-9936-21b38a4aadeb.jpg?aki_policy=xl_poster",
+          "xl_picture": "https://a0.muscache.com/im/pictures/a4fa5724-c654-496c-9936-21b38a4aadeb.jpg?aki_policy=x_large",
+          "provider": "host_provided_photo",
+          "sort_order": 1
+        }
+      },
+      {
+        "picture": {
+          "id": 698907507,
+          "dominant_saturated_color": "#56331E",
+          "caption": "",
+          "picture": "https://a0.muscache.com/im/pictures/c3bf4309-473e-490c-9688-ee119e386aa6.jpg?aki_policy=large",
+          "original_picture": "https://a0.muscache.com/pictures/c3bf4309-473e-490c-9688-ee119e386aa6.jpg",
+          "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAMAAAAFCAIAAAAPE8H1AAAAO0lEQVQIHWNsTgzn5+J8cvMOY26iqbO63rOX/xmbUpyE2Zn+sPEyLq5PfP/urb6tB2NrfraoiNCr9x8A33gUHFhei5QAAAAASUVORK5CYII=",
+          "scrim_color": "#23140F",
+          "poster": "https://a0.muscache.com/im/pictures/c3bf4309-473e-490c-9688-ee119e386aa6.jpg?aki_policy=poster",
+          "xl_poster": "https://a0.muscache.com/im/pictures/c3bf4309-473e-490c-9688-ee119e386aa6.jpg?aki_policy=xl_poster",
+          "xl_picture": "https://a0.muscache.com/im/pictures/c3bf4309-473e-490c-9688-ee119e386aa6.jpg?aki_policy=x_large",
+          "provider": "host_provided_photo",
+          "sort_order": 2
+        }
+      },
+      {
+        "picture": {
+          "id": 698907509,
+          "dominant_saturated_color": "#BA8238",
+          "caption": "",
+          "picture": "https://a0.muscache.com/im/pictures/7519cc9b-e15b-4294-96a0-8128b00633a8.jpg?aki_policy=large",
+          "original_picture": "https://a0.muscache.com/pictures/7519cc9b-e15b-4294-96a0-8128b00633a8.jpg",
+          "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAMAAAAFCAIAAAAPE8H1AAAAO0lEQVQIHWOc1VzBz8fr5BPO2JgaJMTFIK5pzZjspssvLv3wxWvGRCdlPlG5Gw9fMrqZqOjoaH/99h0AU5gP8LRNeZcAAAAASUVORK5CYII=",
+          "scrim_color": "#231C12",
+          "poster": "https://a0.muscache.com/im/pictures/7519cc9b-e15b-4294-96a0-8128b00633a8.jpg?aki_policy=poster",
+          "xl_poster": "https://a0.muscache.com/im/pictures/7519cc9b-e15b-4294-96a0-8128b00633a8.jpg?aki_policy=xl_poster",
+          "xl_picture": "https://a0.muscache.com/im/pictures/7519cc9b-e15b-4294-96a0-8128b00633a8.jpg?aki_policy=x_large",
+          "provider": "host_provided_photo",
+          "sort_order": 3
+        }
+      }
+    ],
+    "display_mode": "BROWSE",
+    "host": {
+      "first_name": "Ayse And Erick",
+      "has_profile_pic": false,
+      "id": 4947983,
+      "is_superhost": false
+    },
+    "spotlight_type": "DESCRIPTION",
+    "summaries": [
+      "3.5 hours",
+      "Drinks included"
+    ],
+    "kicker_text_color": "#767676",
+    "star_rating_color": "#008489",
+    "offered_languages_text": "Also offered in French, Turkish",
+    "base_price_string": "2,788₽",
+    "is_new_pdp": false,
+    "price_string": "2,788₽ per person"
+  },
+  {
+    "action_kicker": "nature walk",
+    "base_price": 2576,
+    "currency": {
+      "currency": "RUB",
+      "currency_symbol_comes_after_currency": true
+    },
+    "country": "Spain",
+    "display_text": "Caminando Senderos de Templarios",
+    "id": 834987,
+    "is_social_good": false,
+    "kicker_text": "nature walk · Navaleno",
+    "lat": 41.83817375596153,
+    "lng": -3.007343843613788,
+    "picture": {
+      "id": 753115475,
+      "dominant_saturated_color": "#A65B3A",
+      "large_ro": "https://a0.muscache.com/im/pictures/acb8bf69-3687-499b-8ba1-5b48e5f8113a.jpg?aki_policy=large_ro",
+      "picture": "https://a0.muscache.com/im/pictures/acb8bf69-3687-499b-8ba1-5b48e5f8113a.jpg?aki_policy=large",
+      "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//AVxdPPT2+UARCqrj7wcBDgFmYzwuFCIgBQfbBPz4/O8BlodpGhAj6/X8CgDv3+zN1xEVXNJ6gTIAAAAASUVORK5CYII=",
+      "saturated_a11y_dark_color": "#A65B3A",
+      "scrim_color": "#2E3629",
+      "original_picture": "https://a0.muscache.com/pictures/acb8bf69-3687-499b-8ba1-5b48e5f8113a.jpg",
+      "xl_picture": "https://a0.muscache.com/im/pictures/acb8bf69-3687-499b-8ba1-5b48e5f8113a.jpg?aki_policy=x_large"
+    },
+    "poster_pictures": [
+      {
+        "id": 753115386,
+        "dominant_saturated_color": "#AD7D53",
+        "caption": "",
+        "picture": "https://a0.muscache.com/im/pictures/6a900b8f-b20c-4176-a7d2-5d39260131f1.jpg?aki_policy=large",
+        "original_picture": "https://a0.muscache.com/pictures/6a900b8f-b20c-4176-a7d2-5d39260131f1.jpg",
+        "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAMAAAAFCAIAAAAPE8H1AAAAPUlEQVQIHQEyAM3/AWpxcQMA/+bu7wFDTEMBAf/6/P4BQ0o2FgkE3O74AWxlQjwVH9T68AGol4X6+wjy8dMuVxg+Y7KNzQAAAABJRU5ErkJggg==",
+        "scrim_color": "#2A352D",
+        "poster": "https://a0.muscache.com/im/pictures/6a900b8f-b20c-4176-a7d2-5d39260131f1.jpg?aki_policy=poster",
+        "xl_poster": "https://a0.muscache.com/im/pictures/6a900b8f-b20c-4176-a7d2-5d39260131f1.jpg?aki_policy=xl_poster",
+        "xl_picture": "https://a0.muscache.com/im/pictures/6a900b8f-b20c-4176-a7d2-5d39260131f1.jpg?aki_policy=x_large",
+        "provider": "host_provided_photo",
+        "sort_order": 1
+      }
+    ],
+    "primary_category": 6,
+    "product_type": 1,
+    "review_count": 0,
+    "star_rating": 0,
+    "tier_id": 0,
+    "title": "Caminando Senderos de Templarios",
+    "availabilities": [],
+    "primary_category_name": "Nature",
+    "display_rating": 0,
+    "carousel_collection_multimedia": [
+      {
+        "picture": {
+          "id": 763016857,
+          "dominant_saturated_color": "#C2D1E8",
+          "caption": "Un cachito del jardín ..........",
+          "picture": "https://a0.muscache.com/im/pictures/6a2e89dd-db83-46f2-9c86-49b73e95d58f.jpg?aki_policy=large",
+          "original_picture": "https://a0.muscache.com/pictures/6a2e89dd-db83-46f2-9c86-49b73e95d58f.jpg",
+          "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//AZatzv8CBg4KBv/+/Ozs6wFJTEA/RVX9/PzV0Mff29YBXVg2Dw0N/f/99vf45Ojvb5EcQoX+o4oAAAAASUVORK5CYII=",
+          "scrim_color": "#151513",
+          "poster": "https://a0.muscache.com/im/pictures/6a2e89dd-db83-46f2-9c86-49b73e95d58f.jpg?aki_policy=poster",
+          "xl_poster": "https://a0.muscache.com/im/pictures/6a2e89dd-db83-46f2-9c86-49b73e95d58f.jpg?aki_policy=xl_poster",
+          "xl_picture": "https://a0.muscache.com/im/pictures/6a2e89dd-db83-46f2-9c86-49b73e95d58f.jpg?aki_policy=x_large",
+          "sort_order": 1
+        }
+      },
+      {
+        "picture": {
+          "id": 763016861,
+          "dominant_saturated_color": "#F9FAFB",
+          "caption": "Una roca en el camino",
+          "picture": "https://a0.muscache.com/im/pictures/fcf8b1f7-e131-46ba-8c30-6da1cb3ac40f.jpg?aki_policy=large",
+          "original_picture": "https://a0.muscache.com/pictures/fcf8b1f7-e131-46ba-8c30-6da1cb3ac40f.jpg",
+          "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//ATxDSDIwJPDv7vsB/zYvNQFAPzknGg3l6vb0//f//v4BLSsfExEJ/Pz/DAcM5ezuAiwW3FOmVH8AAAAASUVORK5CYII=",
+          "scrim_color": "#1B1B19",
+          "poster": "https://a0.muscache.com/im/pictures/fcf8b1f7-e131-46ba-8c30-6da1cb3ac40f.jpg?aki_policy=poster",
+          "xl_poster": "https://a0.muscache.com/im/pictures/fcf8b1f7-e131-46ba-8c30-6da1cb3ac40f.jpg?aki_policy=xl_poster",
+          "xl_picture": "https://a0.muscache.com/im/pictures/fcf8b1f7-e131-46ba-8c30-6da1cb3ac40f.jpg?aki_policy=x_large",
+          "sort_order": 2
+        }
+      }
+    ],
+    "display_mode": "BROWSE",
+    "host": {
+      "first_name": "Elena",
+      "has_profile_pic": false,
+      "id": 160687370,
+      "is_superhost": false
+    },
+    "spotlight_type": "DESCRIPTION",
+    "summaries": [
+      "6 hours",
+      "Food, Drinks included"
+    ],
+    "kicker_text_color": "#767676",
+    "star_rating_color": "#008489",
+    "offered_languages_text": "Offered in Spanish",
+    "base_price_string": "2,576₽",
+    "is_new_pdp": false,
+    "price_string": "2,576₽ per person"
+  },
+  {
+    "action_kicker": "food tasting",
+    "base_price": 3680,
+    "currency": {
+      "currency": "RUB",
+      "currency_symbol_comes_after_currency": true
+    },
+    "country": "Greece",
+    "display_text": "Εμπειρική γευσιγνωσία",
+    "id": 842298,
+    "is_social_good": false,
+    "kicker_text": "food tasting · Βόλος",
+    "lat": 39.36016759828222,
+    "lng": 22.95378254225661,
+    "picture": {
+      "id": 769373217,
+      "dominant_saturated_color": "#E3BEA9",
+      "large_ro": "https://a0.muscache.com/im/pictures/30f1d1e2-0293-4eb4-bac6-13e509c8325d.jpg?aki_policy=large_ro",
+      "picture": "https://a0.muscache.com/im/pictures/30f1d1e2-0293-4eb4-bac6-13e509c8325d.jpg?aki_policy=large",
+      "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//AdG4qA4XGgUWJOjo3v338gHa3t/97eL3+f/14dXP19UBmpmS9+jVEBcd59zdr7vDzlAfSaEpqGgAAAAASUVORK5CYII=",
+      "saturated_a11y_dark_color": "#A35C33",
+      "scrim_color": "#272318",
+      "original_picture": "https://a0.muscache.com/pictures/30f1d1e2-0293-4eb4-bac6-13e509c8325d.jpg",
+      "xl_picture": "https://a0.muscache.com/im/pictures/30f1d1e2-0293-4eb4-bac6-13e509c8325d.jpg?aki_policy=x_large"
+    },
+    "poster_pictures": [
+      {
+        "id": 769372779,
+        "dominant_saturated_color": "#E4B19C",
+        "caption": "",
+        "picture": "https://a0.muscache.com/im/pictures/df182ea3-7fcb-4cca-ab4b-533ae65e0bc1.jpg?aki_policy=large",
+        "original_picture": "https://a0.muscache.com/pictures/df182ea3-7fcb-4cca-ab4b-533ae65e0bc1.jpg",
+        "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAMAAAAFCAIAAAAPE8H1AAAAPUlEQVQIHQEyAM3/AeDi5Pz+8+bj5AHm5+j7+PLZ19QBzsfG176zIRkWAbKso/7QwfoGBgGaln7//QGvsbmHkSCxRYLZpgAAAABJRU5ErkJggg==",
+        "scrim_color": "#352F21",
+        "poster": "https://a0.muscache.com/im/pictures/df182ea3-7fcb-4cca-ab4b-533ae65e0bc1.jpg?aki_policy=poster",
+        "xl_poster": "https://a0.muscache.com/im/pictures/df182ea3-7fcb-4cca-ab4b-533ae65e0bc1.jpg?aki_policy=xl_poster",
+        "xl_picture": "https://a0.muscache.com/im/pictures/df182ea3-7fcb-4cca-ab4b-533ae65e0bc1.jpg?aki_policy=x_large",
+        "provider": "stock_photo",
+        "sort_order": 1
+      }
+    ],
+    "primary_category": 9,
+    "product_type": 1,
+    "review_count": 0,
+    "star_rating": 0,
+    "tier_id": 0,
+    "title": "Εμπειρική γευσιγνωσία",
+    "availabilities": [],
+    "primary_category_name": "Lifestyle",
+    "display_rating": 0,
+    "carousel_collection_multimedia": [
+      {
+        "picture": {
+          "id": 769373788,
+          "dominant_saturated_color": "#F4D042",
+          "caption": "",
+          "picture": "https://a0.muscache.com/im/pictures/cb1aea7a-0d83-4a61-baa0-8a22ec11b22d.jpg?aki_policy=large",
+          "original_picture": "https://a0.muscache.com/pictures/cb1aea7a-0d83-4a61-baa0-8a22ec11b22d.jpg",
+          "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAIAAAACDbGyAAAAW0lEQVQIHQFQAK//AbKMafkHDgAEBwkB8wj8AQG9lXL3DBv9A+z8/AYF8PIBfE08DQ0SGCss1u3uz9LVAYlWQyUn8PsHMubs68XZ6QGsimoFAPD8/AURExj59fE/+STFsScbvwAAAABJRU5ErkJggg==",
+          "scrim_color": "#2E231D",
+          "poster": "https://a0.muscache.com/im/pictures/cb1aea7a-0d83-4a61-baa0-8a22ec11b22d.jpg?aki_policy=poster",
+          "xl_poster": "https://a0.muscache.com/im/pictures/cb1aea7a-0d83-4a61-baa0-8a22ec11b22d.jpg?aki_policy=xl_poster",
+          "xl_picture": "https://a0.muscache.com/im/pictures/cb1aea7a-0d83-4a61-baa0-8a22ec11b22d.jpg?aki_policy=x_large",
+          "provider": "host_provided_photo",
+          "sort_order": 1
+        }
+      }
+    ],
+    "display_mode": "BROWSE",
+    "host": {
+      "first_name": "Eleni",
+      "has_profile_pic": false,
+      "id": 208069258,
+      "is_superhost": false
+    },
+    "spotlight_type": "DESCRIPTION",
+    "summaries": [
+      "5 hours",
+      "Food, Drinks included"
+    ],
+    "kicker_text_color": "#767676",
+    "star_rating_color": "#008489",
+    "base_price_string": "3,680₽",
+    "is_new_pdp": false,
+    "price_string": "3,680₽ per person"
+  }
+]
