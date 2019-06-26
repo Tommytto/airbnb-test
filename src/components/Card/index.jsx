@@ -2,6 +2,7 @@ import React from 'react';
 import './style.scss';
 import PropTypes from 'prop-types';
 import CardPoster from '../CardPoster/index';
+import heartSvg from './heart.svg';
 
 class Card extends React.Component {
     static propTypes = {
@@ -48,7 +49,16 @@ class Card extends React.Component {
                 <div className="card__description">{display_text}</div>
                 {this.renderInfo()}
                 {this.renderRating()}
+                {this.renderLikeButton()}
             </section>
+        );
+    }
+
+    renderLikeButton() {
+        return (
+            <div className="card__like-icon-wrapper">
+                <img alt="heart" className="card__like-icon" src={heartSvg} />
+            </div>
         );
     }
 

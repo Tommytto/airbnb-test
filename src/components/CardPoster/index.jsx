@@ -106,7 +106,7 @@ export default class CardPoster extends React.Component {
                     </Transition>
                     {this.renderCarousel()}
                 </div>
-                <div className="card-poster__overlay" />
+                <div className={`card-poster__overlay ${isHovered ? 'active' : ''}`} />
             </div>
         );
     }

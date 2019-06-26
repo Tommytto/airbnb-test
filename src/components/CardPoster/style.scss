@@ -8,6 +8,7 @@
 
 .card-poster {
   margin-bottom: 12px;
+  position: relative;
 
   &__wrapper {
     position: relative;
@@ -54,5 +55,21 @@
 
   &__poster-container {
     margin-bottom: 12px;
+  }
+
+  &__overlay {
+    box-shadow: inset 0 0 80px -7px black;;
+    opacity: 0;
+    transition: opacity 300ms;
+    position: absolute;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 5;
+
+    &.active {
+      opacity: 1;
+    }
   }
 }
