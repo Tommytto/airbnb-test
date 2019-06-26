@@ -5,5 +5,13 @@
   height: 100%;
   width: 100%;
   box-shadow: 0 1px 0 $c-white-10;
-  padding: 0 24px;
+
+  &__logo {
+    color: $c-orange;
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 34px;
+    height: 100%;
+    padding: 24px;
+  }
 }
