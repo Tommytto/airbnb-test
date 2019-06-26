@@ -15,6 +15,41 @@ class Card extends React.Component {
         summaries: PropTypes.arrayOf(PropTypes.string),
     };
 
+    state = {
+        carouselPictureIndex: -1,
+    };
+
+    handleStartHover = () => {
+        setInterval(() => {
+            const {carousel_collection_multimedia} = this.props;
+            this.setState(({carouselPictureIndex: oldIndex}) => {
+                const newIndex = (oldIndex + 1) % carousel_collection_multimedia.length;
+                return {
+                    carouselPictureIndex: newIndex,
+                };
+            });
+        }, 2000);
+    };
+
+    handleStopHover = () => {
+        console.log('leave');
+    };
+
+    render() {
+        const {kicker_text, display_text, kicker_text_color} = this.props;
+        return (
+            <section className="card" onMouseEnter={this.handleStartHover} onMouseLeave={this.handleStopHover}>
+                {this.renderPoster()}
+                <div className="card__title" style={{color: kicker_text_color}}>
+                    {kicker_text}
+                </div>
+                <div className="card__description">{display_text}</div>
+                {this.renderInfo()}
+                {this.renderRating()}
+            </section>
+        );
+    }
+
     renderSummaries() {
         const {summaries} = this.props;
         return summaries.map((summary, i) => (
@@ -23,6 +58,10 @@ class Card extends React.Component {
                 {summary}
             </span>
         ));
+    }
+
+    isHovered() {
+        return 0 <= this.state.carouselPictureIndex;
     }
 
     renderRating() {
@@ -40,11 +79,33 @@ class Card extends React.Component {
         );
     }
 
+    // renderCarousel() {
+    //     const {carouselPictureIndex} = this.state;
+    //     const {carousel_collection_multimedia} = this.props;
+    //
+    //     if (!this.isHovered()) {
+    //         return null;
+    //     }
+    //
+    //     const picture = carousel_collection_multimedia[carouselPictureIndex].picture.poster;
+    //     return carousel_collection_multimedia.map(({picture: {poster}}, index) => {
+    //         const classNameList = ['card__poster', 'card__poster_type_carousel'];
+    //
+    //         if (index === carouselPictureIndex) {
+    //             classNameList.push('card__poster_type_active');
+    //         }
+    //
+    //         return <img alt="carousel item" className={classNameList.join(' ')} key={index} src={picture} />;
+    //     });
+    // }
+
     renderPoster() {
         const {poster_pictures} = this.props;
         return (
             <div className="card__poster-wrapper">
                 <img alt="poster" className="card__poster" src={poster_pictures[0].poster} />
+                {/*{this.renderCarousel()}*/}
+                <div className="card__poster-overlay" />
             </div>
         );
     }
@@ -56,21 +117,6 @@ class Card extends React.Component {
                 <span className="card__price">{price_string}</span>
                 {this.renderSummaries()}
             </div>
-        );
-    }
-
-    render() {
-        const {kicker_text, display_text, kicker_text_color} = this.props;
-        return (
-            <section className="card">
-                {this.renderPoster()}
-                <div className="card__title" style={{color: kicker_text_color}}>
-                    {kicker_text}
-                </div>
-                <div className="card__description">{display_text}</div>
-                {this.renderInfo()}
-                {this.renderRating()}
-            </section>
         );
     }
 }
